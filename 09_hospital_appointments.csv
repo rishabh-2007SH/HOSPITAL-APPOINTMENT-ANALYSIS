@@ -1,0 +1,1509 @@
+Appointment_ID,Appointment_Date,Department,Appointment_Type,Attendance_Status,Waiting_Time_Minutes,SMS_Reminder,Consultation_Fee
+APT1485,2025-02-24,Gynecology,New,Attended,63.0,No,856.0
+APT1016,2025-02-09,Pediatrics,New,Attended,33.0,No,600.0
+APT1578,2025-02-12,Dermatology,Follow-up,No-Show,28.0,No,476.0
+APT1140,2025-02-14,Dermatology,New,Attended,2.0,No,729.0
+APT1854,2025-02-18,Cardiology,New,Attended,29.0,Yes,1270.0
+APT2370,2025-01-16,Gynecology,Follow-up,Attended,17.0,Yes,609.0
+APT2187,2025-02-09,General Medicine,New,Attended,60.0,No,503.0
+APT1194,2025-02-15,Dermatology,New,No-Show,34.0,No,763.0
+APT2450,2025-02-22,Pediatrics,New,Attended,36.0,Yes,653.0
+APT2385,2025-01-24,Dermatology,Follow-up,No-Show,42.0,No,529.0
+APT1448,2025-02-26,Cardiology,Follow-up,Attended,43.0,No,867.0
+APT2009,2025-02-20,Cardiology,New,No-Show,34.0,No,1311.0
+APT1083,2025-01-06,Pediatrics,Follow-up,Attended,27.0,No,402.0
+APT1099,2025-01-26,ENT,New,Attended,2.0,No,684.0
+APT1758,2025-01-25,General Medicine,Follow-up,Attended,29.0,Yes,349.0
+APT1477,2025-01-08,Pediatrics,Follow-up,No-Show,18.0,Yes,412.0
+APT1316,2025-01-07,General Medicine,New,Attended,69.0,Yes,531.0
+APT1070,2025-01-29,Cardiology,Follow-up,Attended,117.0,No,864.0
+APT1478,2025-01-27,Cardiology,New,Attended,42.0,No,1265.0
+APT1221,2025-01-14,General Medicine,New,Attended,38.0,No,534.0
+APT1982,2025-02-11,General Medicine,Follow-up,No-Show,41.0,No,347.0
+APT1592,2025-02-26,Dermatology,New,Attended,24.0,No,669.0
+APT2318,2025-02-19,General Medicine,New,Attended,161.0,No,536.0
+APT1780,2025-02-02,Cardiology,Follow-up,Cancelled,49.0,Yes,863.0
+APT2100,2025-01-18,ENT,Follow-up,Attended,2.0,Yes,493.0
+APT1781,2025-02-20,General Medicine,New,Attended,43.0,No,537.0
+APT2482,2025-01-10,Cardiology,New,Cancelled,34.0,Yes,1257.0
+APT1069,2025-01-23,General Medicine,New,Attended,,No,533.0
+APT2356,2025-01-13,Gynecology,New,Attended,130.0,Yes,851.0
+APT1846,2025-01-02,Dermatology,New,Attended,24.0,Yes,681.0
+APT1549,2025-01-23,Pediatrics,New,Attended,37.0,Yes,592.0
+APT1061,2025-02-04,General Medicine,New,Attended,49.0,No,546.0
+APT1103,2025-01-10,ENT,New,Attended,16.0,No,714.0
+APT1269,2025-02-05,General Medicine,New,Attended,20.0,Yes,546.0
+APT2153,2025-01-13,Orthopedics,New,Cancelled,51.0,Yes,902.0
+APT2267,2025-02-08,Pediatrics,Follow-up,Cancelled,13.0,No,440.0
+APT1584,2025-02-07,Orthopedics,New,Attended,52.0,No,875.0
+APT1290,2025-01-21,Pediatrics,Follow-up,Cancelled,,Yes,403.0
+APT1050,2025-02-09,Orthopedics,Follow-up,Attended,42.0,No,634.0
+APT1746,2025-01-07,Orthopedics,New,No-Show,35.0,Yes,890.0
+APT1585,2025-01-16,ENT,New,No-Show,27.0,Yes,635.0
+APT1713,2025-01-13,Gynecology,Follow-up,Attended,15.0,Yes,635.0
+APT1866,2025-01-03,Cardiology,Follow-up,Attended,30.0,No,868.0
+APT1685,2025-01-08,Cardiology,Follow-up,Attended,40.0,No,804.0
+APT1999,2025-02-03,Cardiology,New,Cancelled,43.0,Yes,1261.0
+APT1304,2025-02-27,Dermatology,New,No-Show,7.0,Yes,666.0
+APT1823,2025-02-05,Cardiology,Follow-up,Attended,21.0,Yes,854.0
+APT2467,2025-01-19,General Medicine,New,Attended,44.0,Yes,490.0
+APT1593,2025-01-30,Dermatology,New,Attended,2.0,Yes,732.0
+APT1824,2025-01-14,General Medicine,New,Attended,5.0,Yes,498.0
+APT1747,2025-02-12,General Medicine,New,Attended,,Yes,522.0
+APT2008,2025-02-26,Dermatology,New,Attended,17.0,Yes,741.0
+APT1464,2025-01-28,General Medicine,Follow-up,Attended,62.0,No,368.0
+APT1188,2025-01-07,Neurology,Follow-up,Attended,36.0,No,918.0
+APT2089,2025-01-19,ENT,Follow-up,Attended,22.0,Yes,443.0
+APT1574,2025-02-04,General Medicine,Follow-up,No-Show,30.0,Yes,359.0
+APT1216,2025-01-15,Pediatrics,Follow-up,Attended,27.0,No,424.0
+APT2341,2025-01-06,General Medicine,New,No-Show,43.0,Yes,504.0
+APT2465,2025-01-25,Pediatrics,New,Attended,21.0,Yes,609.0
+APT1085,2025-01-03,Cardiology,Follow-up,No-Show,,No,802.0
+APT1573,2025-01-13,Pediatrics,Follow-up,Attended,33.0,Yes,458.0
+APT1266,2025-02-11,General Medicine,Follow-up,No-Show,31.0,Yes,356.0
+APT1896,2025-02-19,Orthopedics,Follow-up,Attended,24.0,Yes,635.0
+APT1963,2025-01-02,Cardiology,Follow-up,Attended,40.0,No,891.0
+APT2367,2025-01-26,Gynecology,New,Attended,136.0,Yes,832.0
+APT2476,2025-02-08,General Medicine,Follow-up,Cancelled,20.0,Yes,369.0
+APT2070,2025-02-16,Cardiology,Follow-up,Cancelled,18.0,No,871.0
+APT1855,2025-01-31,ENT,Follow-up,Attended,17.0,Yes,491.0
+APT1350,2025-02-25,ENT,Follow-up,Attended,32.0,No,482.0
+APT1193,2025-01-14,Orthopedics,New,Attended,45.0,No,898.0
+APT1004,2025-02-11,ENT,New,Attended,35.0,No,630.0
+APT2332,2025-02-27,General Medicine,New,Attended,20.0,Yes,511.0
+APT1891,2025-02-18,Pediatrics,Follow-up,No-Show,110.0,No,449.0
+APT2020,2025-01-21,Pediatrics,New,Attended,35.0,No,604.0
+APT1870,2025-01-01,Pediatrics,Follow-up,Attended,43.0,No,460.0
+APT2425,2025-02-25,Gynecology,Follow-up,Attended,6.0,Yes,592.0
+APT2031,2025-01-23,Neurology,Follow-up,Attended,20.0,No,933.0
+APT1539,2025-02-24,General Medicine,Follow-up,Attended,37.0,Yes,354.0
+APT1362,2025-01-16,Cardiology,New,Attended,49.0,Yes,1235.0
+APT1837,2025-01-23,Gynecology,Follow-up,Attended,16.0,Yes,601.0
+APT2430,2025-01-09,General Medicine,Follow-up,Attended,17.0,Yes,364.0
+APT1411,2025-02-27,ENT,Follow-up,Attended,24.0,No,496.0
+APT1402,2025-02-23,Cardiology,Follow-up,Attended,,Yes,878.0
+APT1389,2025-02-10,Pediatrics,New,Attended,31.0,Yes,590.0
+APT1938,2025-02-12,Dermatology,Follow-up,No-Show,11.0,No,501.0
+APT2497,2025-01-31,Neurology,Follow-up,Attended,31.0,No,984.0
+APT1610,2025-01-07,Neurology,Follow-up,Attended,51.0,No,879.0
+APT1783,2025-01-18,General Medicine,New,Attended,37.0,No,520.0
+APT1429,2025-01-18,Orthopedics,Follow-up,Attended,33.0,Yes,609.0
+APT1971,2025-01-22,Dermatology,Follow-up,Attended,3.0,Yes,532.0
+APT1631,2025-02-25,Pediatrics,Follow-up,Attended,13.0,Yes,441.0
+APT1962,2025-01-21,General Medicine,Follow-up,Attended,8.0,Yes,381.0
+APT1919,2025-01-30,Pediatrics,New,Attended,16.0,Yes,634.0
+APT1377,2025-01-15,General Medicine,New,No-Show,37.0,Yes,504.0
+APT2055,2025-01-10,Gynecology,Follow-up,Cancelled,17.0,Yes,579.0
+APT1633,2025-01-05,Orthopedics,New,Attended,40.0,Yes,979.0
+APT1328,2025-03-01,Orthopedics,New,Attended,73.0,Yes,923.0
+APT1825,2025-01-28,Orthopedics,Follow-up,Attended,27.0,No,606.0
+APT1809,2025-02-28,General Medicine,Follow-up,Cancelled,27.0,Yes,382.0
+APT1597,2025-01-08,Orthopedics,New,Attended,63.0,Yes,925.0
+APT2036,2025-02-04,Cardiology,Follow-up,Attended,30.0,Yes,899.0
+APT1600,2025-01-31,Dermatology,Follow-up,Attended,2.0,Yes,501.0
+APT1648,2025-01-04,Neurology,New,Attended,43.0,Yes,1329.0
+APT2110,2025-01-09,Orthopedics,Follow-up,Cancelled,45.0,Yes,635.0
+APT2383,2025-02-07,Pediatrics,Follow-up,Cancelled,12.0,Yes,429.0
+APT1471,2025-01-18,Gynecology,Follow-up,Attended,27.0,Yes,610.0
+APT2240,2025-01-02,Cardiology,Follow-up,Attended,42.0,No,854.0
+APT1768,2025-02-14,Pediatrics,Follow-up,Attended,25.0,No,447.0
+APT1268,2025-01-13,General Medicine,Follow-up,Attended,21.0,Yes,360.0
+APT2346,2025-01-28,General Medicine,New,Attended,18.0,Yes,543.0
+APT1170,2025-02-28,Orthopedics,Follow-up,Attended,38.0,No,641.0
+APT1552,2025-01-16,General Medicine,Follow-up,Attended,13.0,Yes,385.0
+APT2182,2025-02-13,Orthopedics,New,Attended,63.0,No,956.0
+APT2192,2025-01-03,Neurology,Follow-up,Attended,34.0,No,898.0
+APT2368,2025-02-01,Orthopedics,New,Attended,137.0,No,981.0
+APT1725,2025-02-01,General Medicine,New,Attended,53.0,No,485.0
+APT1522,2025-01-20,General Medicine,New,Attended,20.0,Yes,541.0
+APT1881,2025-01-23,Pediatrics,Follow-up,Attended,9.0,No,408.0
+APT1332,2025-02-10,Cardiology,Follow-up,Attended,30.0,Yes,856.0
+APT1349,2025-02-23,Dermatology,New,Attended,41.0,Yes,686.0
+APT2395,2025-02-13,General Medicine,Follow-up,Attended,30.0,Yes,381.0
+APT1352,2025-02-24,Neurology,Follow-up,Cancelled,31.0,Yes,919.0
+APT1972,2025-02-14,Pediatrics,Follow-up,Cancelled,30.0,Yes,420.0
+APT1791,2025-01-24,General Medicine,Follow-up,Attended,19.0,Yes,351.0
+APT1787,2025-02-20,Dermatology,New,Attended,14.0,Yes,671.0
+APT1493,2025-01-31,Gynecology,Follow-up,Attended,14.0,Yes,629.0
+APT1774,2025-02-12,Cardiology,Follow-up,Attended,37.0,Yes,826.0
+APT1997,2025-01-11,General Medicine,New,No-Show,43.0,Yes,513.0
+APT2107,2025-02-10,General Medicine,New,No-Show,29.0,No,503.0
+APT1923,2025-01-22,Cardiology,Follow-up,No-Show,42.0,No,897.0
+APT1635,2025-01-02,Cardiology,New,Cancelled,32.0,No,1292.0
+APT2470,2025-01-13,General Medicine,Follow-up,Cancelled,19.0,Yes,378.0
+APT1424,2025-01-15,ENT,Follow-up,Attended,28.0,No,432.0
+APT2160,2025-02-18,Cardiology,New,Attended,54.0,Yes,1158.0
+APT2306,2025-01-07,General Medicine,New,Attended,56.0,Yes,513.0
+APT2457,2025-02-18,General Medicine,Follow-up,Attended,10.0,No,366.0
+APT1615,2025-01-14,General Medicine,Follow-up,No-Show,32.0,Yes,381.0
+APT1889,2025-02-20,ENT,Follow-up,Attended,17.0,No,461.0
+APT2266,2025-01-18,Neurology,Follow-up,Cancelled,33.0,Yes,914.0
+APT1288,2025-02-10,Pediatrics,New,Attended,35.0,Yes,593.0
+APT1197,2025-02-28,Pediatrics,Follow-up,No-Show,28.0,No,448.0
+APT1360,2025-02-10,Pediatrics,New,Attended,28.0,No,602.0
+APT1229,2025-02-21,General Medicine,Follow-up,No-Show,9.0,Yes,372.0
+APT1239,2025-02-11,Dermatology,New,Attended,24.0,No,688.0
+APT1853,2025-02-18,Cardiology,Follow-up,Attended,24.0,Yes,835.0
+APT2051,2025-02-07,Cardiology,New,Attended,29.0,Yes,1205.0
+APT1611,2025-02-28,Gynecology,Follow-up,Attended,37.0,Yes,577.0
+APT1131,2025-01-04,Orthopedics,Follow-up,Attended,45.0,No,686.0
+APT1933,2025-01-23,Cardiology,New,Attended,52.0,Yes,1217.0
+APT1890,2025-02-09,General Medicine,New,No-Show,34.0,Yes,518.0
+APT1442,2025-01-23,Orthopedics,Follow-up,Attended,44.0,Yes,676.0
+APT1957,2025-01-20,General Medicine,New,Cancelled,47.0,No,520.0
+APT2177,2025-02-08,General Medicine,New,No-Show,20.0,Yes,478.0
+APT2014,2025-01-29,ENT,Follow-up,Attended,35.0,Yes,496.0
+APT1357,2025-02-22,Neurology,New,Attended,42.0,No,1405.0
+APT1263,2025-02-07,Neurology,Follow-up,Attended,33.0,Yes,957.0
+APT1894,2025-01-16,Orthopedics,Follow-up,Attended,45.0,Yes,603.0
+APT2480,2025-01-12,Neurology,Follow-up,Attended,27.0,Yes,946.0
+APT1232,2025-01-11,General Medicine,Follow-up,Attended,36.0,No,384.0
+APT1121,2025-02-24,Neurology,Follow-up,No-Show,41.0,No,940.0
+APT2322,2025-03-01,ENT,New,No-Show,153.0,No,676.0
+APT1708,2025-01-08,General Medicine,Follow-up,Attended,39.0,No,372.0
+APT1157,2025-01-06,General Medicine,Follow-up,Attended,40.0,Yes,367.0
+APT2156,2025-02-05,Neurology,New,No-Show,41.0,No,1339.0
+APT1374,2025-02-19,Dermatology,Follow-up,Attended,12.0,Yes,482.0
+APT1204,2025-02-13,Orthopedics,New,Attended,52.0,No,908.0
+APT1065,2025-02-12,Dermatology,New,Attended,39.0,No,731.0
+APT1198,2025-02-25,Orthopedics,Follow-up,Attended,61.0,No,662.0
+APT2317,2025-01-17,ENT,Follow-up,No-Show,,No,453.0
+APT1027,2025-01-31,General Medicine,New,Cancelled,44.0,Yes,513.0
+APT1745,2025-02-08,Dermatology,Follow-up,Attended,22.0,Yes,488.0
+APT1107,2025-01-11,Pediatrics,New,No-Show,52.0,No,581.0
+APT2063,2025-01-15,Pediatrics,Follow-up,Attended,8.0,Yes,422.0
+APT1150,2025-01-11,Neurology,New,Attended,58.0,Yes,1325.0
+APT2409,2025-02-02,Cardiology,Follow-up,Attended,40.0,No,838.0
+APT1885,2025-01-22,Neurology,Follow-up,Attended,51.0,No,986.0
+APT1877,2025-02-24,Dermatology,New,Attended,23.0,Yes,757.0
+APT1743,2025-02-05,Orthopedics,New,Attended,56.0,No,940.0
+APT1822,2025-02-07,Orthopedics,New,Attended,50.0,Yes,907.0
+APT1373,2025-01-03,General Medicine,New,Attended,22.0,Yes,497.0
+APT2302,2025-02-11,Pediatrics,New,No-Show,40.0,Yes,611.0
+APT2290,2025-01-17,Neurology,New,Attended,42.0,Yes,1356.0
+APT1790,2025-01-18,Cardiology,New,Attended,37.0,No,1284.0
+APT1833,2025-02-23,ENT,Follow-up,Attended,19.0,No,487.0
+APT2326,2025-01-21,Neurology,New,Attended,45.0,Yes,1267.0
+APT1199,2025-02-27,Orthopedics,Follow-up,Attended,25.0,Yes,619.0
+APT1416,2025-01-05,Cardiology,Follow-up,Cancelled,45.0,Yes,891.0
+APT2225,2025-01-02,Cardiology,Follow-up,Attended,44.0,Yes,902.0
+APT1509,2025-02-08,Dermatology,Follow-up,Attended,3.0,No,483.0
+APT1264,2025-02-13,Cardiology,Follow-up,Attended,38.0,Yes,905.0
+APT1606,2025-02-05,General Medicine,Follow-up,Attended,,Yes,358.0
+APT1565,2025-02-19,Dermatology,New,Attended,33.0,Yes,770.0
+APT1003,2025-02-28,Gynecology,New,Attended,42.0,No,895.0
+APT1492,2025-02-03,Gynecology,Follow-up,Attended,,No,622.0
+APT1571,2025-02-26,Dermatology,Follow-up,Attended,17.0,Yes,534.0
+APT2234,2025-02-18,Cardiology,New,Attended,48.0,Yes,1300.0
+APT1815,2025-01-22,Cardiology,New,Attended,169.0,Yes,1264.0
+APT2069,2025-02-28,Orthopedics,New,Attended,41.0,Yes,856.0
+APT2435,2025-02-11,Cardiology,New,Attended,33.0,Yes,1280.0
+APT1879,2025-01-02,Gynecology,New,Attended,,Yes,811.0
+APT1515,2025-03-01,Gynecology,New,No-Show,29.0,No,874.0
+APT1148,2025-02-12,General Medicine,Follow-up,Attended,29.0,Yes,338.0
+APT2224,2025-02-03,Cardiology,Follow-up,Attended,26.0,Yes,860.0
+APT1160,2025-01-21,General Medicine,Follow-up,Attended,16.0,No,376.0
+APT1948,2025-01-21,General Medicine,New,Attended,,Yes,506.0
+APT1303,2025-01-13,General Medicine,Follow-up,Cancelled,24.0,No,370.0
+APT2218,2025-01-17,Pediatrics,Follow-up,Attended,2.0,Yes,435.0
+APT1976,2025-02-27,Cardiology,Follow-up,Attended,28.0,No,808.0
+APT2345,2025-01-03,Orthopedics,New,Attended,55.0,Yes,956.0
+APT2297,2025-02-01,Dermatology,New,Attended,23.0,Yes,678.0
+APT1112,2025-02-25,Gynecology,Follow-up,Attended,16.0,Yes,583.0
+APT1317,2025-01-05,Pediatrics,New,No-Show,40.0,No,593.0
+APT1081,2025-02-28,Neurology,Follow-up,Attended,33.0,Yes,870.0
+APT1816,2025-02-28,Pediatrics,Follow-up,Attended,21.0,Yes,428.0
+APT1144,2025-02-08,ENT,Follow-up,Attended,3.0,No,476.0
+APT2280,2025-02-05,Gynecology,New,Attended,33.0,Yes,904.0
+APT1670,2025-01-27,Pediatrics,Follow-up,Cancelled,11.0,Yes,418.0
+APT2342,2025-01-27,Gynecology,Follow-up,Attended,,Yes,631.0
+APT1818,2025-02-07,ENT,New,Attended,24.0,Yes,697.0
+APT2047,2025-02-27,General Medicine,Follow-up,Attended,11.0,No,340.0
+APT2132,2025-01-22,Orthopedics,Follow-up,Attended,18.0,Yes,656.0
+APT1675,2025-01-22,Neurology,Follow-up,Attended,45.0,Yes,941.0
+APT1137,2025-01-31,Gynecology,Follow-up,Attended,25.0,Yes,576.0
+APT1293,2025-01-07,Neurology,Follow-up,Attended,45.0,Yes,880.0
+APT1355,2025-02-19,ENT,Follow-up,Attended,23.0,Yes,452.0
+APT1893,2025-02-06,Pediatrics,Follow-up,No-Show,27.0,Yes,456.0
+APT2481,2025-01-14,General Medicine,Follow-up,No-Show,32.0,No,359.0
+APT2227,2025-02-24,Orthopedics,Follow-up,Cancelled,31.0,Yes,613.0
+APT1819,2025-02-09,General Medicine,Follow-up,Attended,12.0,No,377.0
+APT1001,2025-02-17,General Medicine,New,Attended,37.0,Yes,508.0
+APT2065,2025-02-20,General Medicine,Follow-up,Attended,36.0,Yes,370.0
+APT2256,2025-02-26,Neurology,Follow-up,Attended,21.0,Yes,913.0
+APT1439,2025-02-02,Dermatology,New,Attended,39.0,Yes,698.0
+APT2150,2025-02-16,General Medicine,Follow-up,Attended,13.0,No,374.0
+APT2043,2025-02-02,General Medicine,Follow-up,Attended,19.0,No,334.0
+APT2357,2025-01-19,ENT,New,No-Show,37.0,Yes,713.0
+APT1548,2025-01-04,Pediatrics,Follow-up,Attended,20.0,No,401.0
+APT1324,2025-02-15,General Medicine,Follow-up,Attended,23.0,Yes,363.0
+APT1979,2025-01-13,ENT,Follow-up,Attended,9.0,No,485.0
+APT1804,2025-01-08,Cardiology,Follow-up,No-Show,37.0,Yes,900.0
+APT2298,2025-01-11,General Medicine,New,Attended,33.0,Yes,479.0
+APT1187,2025-02-28,Gynecology,New,Attended,45.0,No,922.0
+APT1087,2025-01-18,Pediatrics,New,Attended,17.0,Yes,601.0
+APT1730,2025-02-07,Pediatrics,Follow-up,Attended,40.0,Yes,461.0
+APT1490,2025-02-09,Orthopedics,New,Attended,62.0,No,876.0
+APT1339,2025-01-02,Cardiology,New,Attended,54.0,Yes,1233.0
+APT2484,2025-01-16,General Medicine,New,Attended,35.0,Yes,485.0
+APT1813,2025-01-12,General Medicine,New,Attended,55.0,Yes,521.0
+APT1006,2025-02-17,Gynecology,New,Attended,41.0,Yes,808.0
+APT1248,2025-02-08,Orthopedics,Follow-up,Attended,49.0,No,629.0
+APT1886,2025-02-24,Gynecology,New,Attended,10.0,Yes,878.0
+APT1031,2025-02-27,Pediatrics,Follow-up,Attended,90.0,No,451.0
+APT1247,2025-02-01,Dermatology,Follow-up,No-Show,26.0,No,488.0
+APT1321,2025-02-25,General Medicine,Follow-up,Cancelled,24.0,Yes,336.0
+APT2124,2025-02-02,ENT,Follow-up,No-Show,30.0,No,446.0
+APT1876,2025-01-13,Cardiology,Follow-up,Attended,35.0,Yes,800.0
+APT1180,2025-02-27,Dermatology,Follow-up,Attended,2.0,Yes,499.0
+APT2109,2025-02-02,General Medicine,Follow-up,Attended,13.0,Yes,354.0
+APT1987,2025-02-06,Neurology,Follow-up,Attended,64.0,Yes,930.0
+APT2432,2025-01-08,Pediatrics,Follow-up,Cancelled,32.0,Yes,445.0
+APT1529,2025-01-05,Cardiology,New,Cancelled,72.0,Yes,1172.0
+APT1343,2025-01-10,Orthopedics,Follow-up,Attended,38.0,Yes,626.0
+APT1186,2025-01-08,General Medicine,Follow-up,Cancelled,43.0,Yes,376.0
+APT1638,2025-01-27,Orthopedics,New,Attended,58.0,Yes,951.0
+APT2417,2025-02-22,Gynecology,New,No-Show,32.0,No,879.0
+APT2037,2025-01-12,Neurology,New,Attended,20.0,No,1286.0
+APT2206,2025-02-01,Cardiology,Follow-up,Attended,44.0,Yes,823.0
+APT1820,2025-02-28,General Medicine,Follow-up,No-Show,26.0,Yes,340.0
+APT1947,2025-02-14,Neurology,Follow-up,Attended,19.0,Yes,891.0
+APT1166,2025-01-07,General Medicine,New,Attended,22.0,Yes,532.0
+APT1935,2025-01-01,Cardiology,New,Attended,30.0,Yes,1217.0
+APT1086,2025-02-24,Orthopedics,Follow-up,No-Show,11.0,No,679.0
+APT2294,2025-01-25,ENT,Follow-up,Attended,20.0,Yes,480.0
+APT2408,2025-02-20,Cardiology,Follow-up,Attended,44.0,No,910.0
+APT2264,2025-01-17,Orthopedics,New,Attended,42.0,No,984.0
+APT2390,2025-02-17,Orthopedics,Follow-up,Attended,64.0,No,615.0
+APT1977,2025-02-27,Orthopedics,New,Attended,42.0,Yes,871.0
+APT1123,2025-02-21,Pediatrics,New,Attended,35.0,No,640.0
+APT2271,2025-02-01,ENT,Follow-up,Cancelled,12.0,Yes,466.0
+APT1243,2025-01-11,General Medicine,New,Attended,,Yes,477.0
+APT1931,2025-01-14,General Medicine,New,Attended,20.0,Yes,542.0
+APT2330,2025-01-20,Pediatrics,New,Attended,12.0,Yes,627.0
+APT1905,2025-01-04,Dermatology,Follow-up,Attended,4.0,No,490.0
+APT2000,2025-01-16,Cardiology,Follow-up,Attended,42.0,Yes,906.0
+APT2158,2025-02-16,General Medicine,New,Attended,51.0,No,527.0
+APT1614,2025-02-28,Cardiology,Follow-up,No-Show,52.0,Yes,820.0
+APT2412,2025-01-07,ENT,Follow-up,No-Show,42.0,No,434.0
+APT1318,2025-01-24,General Medicine,Follow-up,Attended,35.0,Yes,379.0
+APT1456,2025-01-16,General Medicine,New,Attended,33.0,Yes,532.0
+APT1616,2025-02-09,General Medicine,Follow-up,Attended,35.0,Yes,339.0
+APT1262,2025-02-05,Neurology,New,Attended,46.0,No,1282.0
+APT1057,2025-02-25,ENT,Follow-up,No-Show,11.0,No,467.0
+APT1249,2025-02-02,Pediatrics,Follow-up,Attended,40.0,Yes,420.0
+APT1028,2025-01-27,Dermatology,New,Attended,37.0,Yes,679.0
+APT1626,2025-02-16,Cardiology,New,Attended,,No,1249.0
+APT1019,2025-02-26,Pediatrics,New,Attended,25.0,Yes,572.0
+APT2052,2025-01-27,Dermatology,Follow-up,Attended,22.0,Yes,487.0
+APT1851,2025-01-29,General Medicine,New,Cancelled,42.0,Yes,504.0
+APT2102,2025-02-21,Orthopedics,Follow-up,No-Show,30.0,Yes,619.0
+APT1654,2025-01-15,General Medicine,Follow-up,Attended,35.0,Yes,335.0
+APT1487,2025-01-20,Pediatrics,New,Attended,25.0,Yes,614.0
+APT1921,2025-01-18,Pediatrics,Follow-up,Attended,15.0,Yes,424.0
+APT1211,2025-02-26,Orthopedics,Follow-up,No-Show,49.0,No,624.0
+APT1554,2025-01-11,General Medicine,Follow-up,Attended,37.0,No,340.0
+APT1903,2025-02-26,Pediatrics,Follow-up,Attended,19.0,Yes,438.0
+APT1799,2025-01-23,Orthopedics,New,Attended,48.0,Yes,893.0
+APT2292,2025-02-23,Gynecology,New,Attended,40.0,No,810.0
+APT1751,2025-02-23,Dermatology,Follow-up,Attended,,No,503.0
+APT1051,2025-03-01,ENT,New,Attended,,No,675.0
+APT2277,2025-01-14,Cardiology,New,Attended,56.0,No,1193.0
+APT1620,2025-02-16,General Medicine,Follow-up,Attended,33.0,Yes,371.0
+APT1707,2025-01-10,Orthopedics,Follow-up,Attended,35.0,No,631.0
+APT1058,2025-01-06,ENT,Follow-up,No-Show,2.0,No,451.0
+APT1602,2025-01-28,Neurology,New,Attended,20.0,Yes,1377.0
+APT1956,2025-01-15,General Medicine,Follow-up,Cancelled,35.0,Yes,334.0
+APT1048,2025-02-19,General Medicine,New,Attended,46.0,No,542.0
+APT2437,2025-02-17,Pediatrics,New,Attended,16.0,Yes,595.0
+APT1042,2025-01-30,Cardiology,Follow-up,Attended,49.0,No,905.0
+APT2289,2025-02-06,Gynecology,New,Attended,35.0,Yes,856.0
+APT1777,2025-02-14,Dermatology,Follow-up,Attended,18.0,Yes,512.0
+APT1381,2025-01-15,General Medicine,New,Attended,108.0,Yes,482.0
+APT1831,2025-01-02,General Medicine,New,Attended,,No,495.0
+APT1126,2025-01-20,Pediatrics,New,Attended,20.0,Yes,640.0
+APT2469,2025-02-03,Cardiology,New,No-Show,52.0,No,1261.0
+APT2226,2025-01-13,Cardiology,Follow-up,Attended,50.0,Yes,866.0
+APT1603,2025-01-18,General Medicine,New,Attended,,No,533.0
+APT1778,2025-01-02,Cardiology,New,Attended,,Yes,1172.0
+APT1312,2025-01-25,Cardiology,New,Attended,66.0,Yes,1318.0
+APT2157,2025-01-23,Pediatrics,New,Attended,39.0,No,628.0
+APT2431,2025-01-04,Pediatrics,New,Attended,41.0,Yes,605.0
+APT1301,2025-02-22,Dermatology,Follow-up,Attended,5.0,No,506.0
+APT2011,2025-01-07,General Medicine,Follow-up,Attended,9.0,Yes,381.0
+APT1119,2025-01-13,General Medicine,Follow-up,Attended,31.0,Yes,383.0
+APT1287,2025-02-22,Cardiology,New,Attended,44.0,No,1186.0
+APT2237,2025-01-23,Dermatology,Follow-up,Attended,24.0,No,488.0
+APT1378,2025-01-12,Orthopedics,New,Attended,39.0,No,913.0
+APT2471,2025-01-11,Gynecology,New,Attended,37.0,Yes,821.0
+APT2190,2025-02-24,Pediatrics,Follow-up,Attended,2.0,Yes,417.0
+APT1805,2025-02-01,Dermatology,New,Attended,35.0,Yes,725.0
+APT1030,2025-01-01,Neurology,Follow-up,Attended,25.0,Yes,922.0
+APT2488,2025-01-07,Gynecology,Follow-up,Attended,31.0,No,577.0
+APT2452,2025-01-02,Dermatology,New,Attended,20.0,Yes,707.0
+APT1201,2025-01-07,Neurology,New,Attended,53.0,Yes,1383.0
+APT1975,2025-02-23,Gynecology,New,Attended,31.0,Yes,925.0
+APT1692,2025-01-22,Pediatrics,New,Attended,43.0,Yes,570.0
+APT1064,2025-02-05,Cardiology,New,Attended,,Yes,1242.0
+APT2181,2025-02-07,Orthopedics,New,Attended,42.0,Yes,956.0
+APT1838,2025-01-16,Cardiology,Follow-up,Attended,4.0,Yes,846.0
+APT1178,2025-02-22,Pediatrics,Follow-up,Attended,2.0,No,406.0
+APT1706,2025-01-27,Dermatology,New,Cancelled,23.0,No,691.0
+APT1228,2025-02-19,General Medicine,Follow-up,Attended,43.0,Yes,351.0
+APT2235,2025-01-21,ENT,Follow-up,Attended,19.0,Yes,464.0
+APT1080,2025-01-26,ENT,New,Attended,,No,681.0
+APT1472,2025-01-14,Gynecology,Follow-up,Attended,40.0,Yes,640.0
+APT1986,2025-01-07,Dermatology,Follow-up,Attended,40.0,Yes,496.0
+APT1687,2025-02-10,General Medicine,New,Attended,40.0,No,521.0
+APT2054,2025-01-30,Cardiology,Follow-up,Attended,34.0,Yes,887.0
+APT1327,2025-02-19,Pediatrics,New,Attended,2.0,Yes,617.0
+APT1475,2025-02-24,Gynecology,Follow-up,Attended,35.0,Yes,595.0
+APT1284,2025-01-03,ENT,New,Attended,6.0,No,693.0
+APT1504,2025-02-20,General Medicine,Follow-up,Attended,36.0,Yes,362.0
+APT1709,2025-02-09,General Medicine,Follow-up,Attended,32.0,No,381.0
+APT1669,2025-01-10,Neurology,New,Attended,67.0,Yes,1289.0
+APT1871,2025-02-27,Gynecology,Follow-up,Cancelled,53.0,No,566.0
+APT1209,2025-02-20,Neurology,Follow-up,Attended,41.0,No,947.0
+APT1841,2025-01-26,Cardiology,New,Attended,45.0,Yes,1203.0
+APT1671,2025-01-09,Neurology,Follow-up,Attended,42.0,Yes,905.0
+APT1097,2025-01-07,Orthopedics,Follow-up,Attended,47.0,Yes,638.0
+APT1283,2025-01-31,Pediatrics,Follow-up,Attended,30.0,Yes,426.0
+APT2223,2025-02-16,ENT,New,Attended,33.0,Yes,629.0
+APT2260,2025-01-09,Dermatology,New,Attended,6.0,Yes,711.0
+APT1595,2025-02-02,Pediatrics,Follow-up,No-Show,24.0,No,429.0
+APT2145,2025-01-04,Cardiology,New,Attended,59.0,Yes,1256.0
+APT2308,2025-02-10,Neurology,Follow-up,Attended,24.0,Yes,978.0
+APT2119,2025-01-27,Dermatology,Follow-up,Attended,34.0,Yes,537.0
+APT2416,2025-01-24,Pediatrics,New,Attended,21.0,Yes,624.0
+APT2203,2025-02-11,General Medicine,Follow-up,Attended,5.0,Yes,334.0
+APT1904,2025-01-16,ENT,Follow-up,Attended,,Yes,443.0
+APT2251,2025-02-15,Pediatrics,Follow-up,Attended,7.0,Yes,444.0
+APT1642,2025-01-23,Orthopedics,New,Attended,46.0,Yes,882.0
+APT1612,2025-01-31,Pediatrics,Follow-up,Attended,32.0,Yes,456.0
+APT1361,2025-01-25,General Medicine,Follow-up,No-Show,23.0,No,333.0
+APT1577,2025-02-23,Dermatology,New,Attended,39.0,No,722.0
+APT1499,2025-01-31,Cardiology,Follow-up,Attended,22.0,No,901.0
+APT1859,2025-01-02,Neurology,Follow-up,Attended,41.0,Yes,866.0
+APT1335,2025-02-24,Gynecology,Follow-up,Attended,33.0,No,567.0
+APT1132,2025-02-17,Orthopedics,New,Attended,45.0,No,917.0
+APT1400,2025-01-11,General Medicine,New,Attended,6.0,Yes,518.0
+APT1353,2025-01-24,Cardiology,Follow-up,Attended,45.0,Yes,857.0
+APT1072,2025-01-19,Orthopedics,New,Attended,51.0,Yes,875.0
+APT2253,2025-02-18,Dermatology,New,Attended,33.0,Yes,767.0
+APT1143,2025-01-30,Dermatology,New,Attended,33.0,Yes,768.0
+APT2300,2025-01-21,General Medicine,Follow-up,Attended,27.0,Yes,335.0
+APT1750,2025-02-05,Orthopedics,Follow-up,Cancelled,31.0,Yes,623.0
+APT1796,2025-02-13,ENT,Follow-up,Attended,22.0,No,440.0
+APT2364,2025-01-22,Orthopedics,Follow-up,Attended,23.0,Yes,650.0
+APT1380,2025-01-26,Orthopedics,Follow-up,No-Show,61.0,Yes,600.0
+APT2081,2025-01-21,Orthopedics,New,Attended,49.0,Yes,948.0
+APT1289,2025-02-28,ENT,Follow-up,No-Show,23.0,No,488.0
+APT1314,2025-02-21,Orthopedics,Follow-up,Attended,55.0,Yes,622.0
+APT1849,2025-02-26,Pediatrics,New,Attended,30.0,Yes,601.0
+APT1425,2025-01-04,General Medicine,New,Attended,42.0,Yes,486.0
+APT1712,2025-01-10,Neurology,Follow-up,Attended,27.0,Yes,963.0
+APT2360,2025-01-27,Cardiology,New,Attended,24.0,No,1204.0
+APT1498,2025-02-20,General Medicine,New,No-Show,23.0,No,534.0
+APT1334,2025-02-27,General Medicine,Follow-up,Attended,28.0,Yes,340.0
+APT1208,2025-01-05,Orthopedics,Follow-up,Attended,64.0,Yes,673.0
+APT1697,2025-01-26,General Medicine,Follow-up,No-Show,26.0,No,335.0
+APT1407,2025-01-01,Neurology,Follow-up,Attended,35.0,No,948.0
+APT2059,2025-01-04,Cardiology,Follow-up,Attended,45.0,Yes,911.0
+APT2210,2025-02-18,General Medicine,New,Attended,40.0,No,512.0
+APT1930,2025-02-06,General Medicine,Follow-up,Attended,12.0,Yes,333.0
+APT1718,2025-01-02,General Medicine,New,Attended,37.0,No,534.0
+APT1154,2025-02-03,General Medicine,Follow-up,No-Show,25.0,No,376.0
+APT1637,2025-01-25,Pediatrics,Follow-up,Attended,13.0,Yes,458.0
+APT1175,2025-02-21,Pediatrics,New,Attended,14.0,Yes,604.0
+APT1007,2025-02-17,Dermatology,Follow-up,Attended,10.0,No,474.0
+APT2135,2025-02-23,Orthopedics,Follow-up,Attended,33.0,No,636.0
+APT2348,2025-02-21,Dermatology,Follow-up,Attended,17.0,Yes,510.0
+APT2155,2025-01-04,Pediatrics,Follow-up,Attended,2.0,Yes,431.0
+APT1152,2025-02-24,Cardiology,Follow-up,Attended,32.0,No,909.0
+APT2309,2025-02-21,General Medicine,New,Cancelled,39.0,Yes,492.0
+APT1596,2025-01-01,Pediatrics,Follow-up,No-Show,16.0,No,428.0
+APT2466,2025-01-26,Orthopedics,Follow-up,Cancelled,27.0,Yes,689.0
+APT1238,2025-01-20,Pediatrics,Follow-up,Attended,49.0,Yes,408.0
+APT1359,2025-01-14,General Medicine,Follow-up,Cancelled,5.0,No,344.0
+APT1078,2025-02-01,Neurology,New,Attended,45.0,Yes,1372.0
+APT1227,2025-02-28,Gynecology,Follow-up,Attended,42.0,Yes,639.0
+APT1608,2025-01-25,Neurology,Follow-up,Cancelled,58.0,No,892.0
+APT2174,2025-02-20,General Medicine,Follow-up,Attended,36.0,Yes,337.0
+APT1116,2025-02-04,Gynecology,New,Attended,48.0,Yes,884.0
+APT1323,2025-02-11,Neurology,Follow-up,Attended,37.0,Yes,886.0
+APT1146,2025-01-07,General Medicine,Follow-up,Attended,27.0,Yes,339.0
+APT2436,2025-02-15,Dermatology,Follow-up,Attended,25.0,Yes,470.0
+APT2402,2025-03-01,Dermatology,New,Attended,14.0,No,730.0
+APT1173,2025-02-19,Neurology,Follow-up,No-Show,,Yes,991.0
+APT1689,2025-02-15,Pediatrics,New,Attended,18.0,Yes,572.0
+APT1587,2025-01-02,Cardiology,Follow-up,Attended,57.0,No,902.0
+APT1046,2025-02-10,Pediatrics,Follow-up,Attended,36.0,Yes,428.0
+APT2244,2025-01-16,Pediatrics,Follow-up,Attended,25.0,No,452.0
+APT2283,2025-01-25,Orthopedics,New,Attended,53.0,Yes,856.0
+APT1740,2025-01-17,Neurology,New,Attended,61.0,Yes,1389.0
+APT1147,2025-01-24,Neurology,New,Attended,80.0,Yes,1426.0
+APT1414,2025-02-02,General Medicine,New,Attended,22.0,Yes,543.0
+APT1153,2025-01-06,General Medicine,New,No-Show,36.0,Yes,533.0
+APT2358,2025-02-16,Neurology,Follow-up,Attended,35.0,Yes,916.0
+APT2443,2025-01-28,Dermatology,New,Attended,29.0,No,682.0
+APT1427,2025-02-15,Dermatology,Follow-up,Attended,23.0,Yes,501.0
+APT1164,2025-01-21,General Medicine,New,Attended,35.0,Yes,499.0
+APT1711,2025-02-24,Gynecology,New,Attended,48.0,No,826.0
+APT1943,2025-01-01,Neurology,New,Attended,55.0,No,1401.0
+APT1829,2025-01-29,Cardiology,New,No-Show,35.0,No,1291.0
+APT1755,2025-02-21,General Medicine,New,No-Show,35.0,No,506.0
+APT2439,2025-01-13,Pediatrics,New,No-Show,15.0,Yes,611.0
+APT2285,2025-01-04,Pediatrics,Follow-up,Attended,19.0,Yes,403.0
+APT1386,2025-01-17,Pediatrics,Follow-up,Cancelled,39.0,No,401.0
+APT1235,2025-02-22,Dermatology,Follow-up,Attended,29.0,Yes,478.0
+APT1122,2025-01-07,General Medicine,Follow-up,Attended,23.0,No,341.0
+APT1095,2025-01-07,Dermatology,Follow-up,Attended,29.0,No,473.0
+APT1210,2025-02-07,Neurology,Follow-up,Attended,43.0,Yes,872.0
+APT1045,2025-01-09,Neurology,Follow-up,Attended,30.0,No,899.0
+APT2301,2025-02-28,General Medicine,New,Attended,35.0,Yes,543.0
+APT1915,2025-02-06,Dermatology,Follow-up,Attended,24.0,No,486.0
+APT1162,2025-02-19,General Medicine,Follow-up,Attended,35.0,Yes,357.0
+APT1382,2025-02-12,Pediatrics,Follow-up,Attended,26.0,Yes,406.0
+APT1937,2025-01-14,Neurology,Follow-up,Attended,28.0,Yes,893.0
+APT1458,2025-01-24,Neurology,New,Attended,69.0,No,1236.0
+APT2311,2025-01-01,Gynecology,Follow-up,Attended,21.0,Yes,647.0
+APT1978,2025-01-08,ENT,New,No-Show,14.0,Yes,619.0
+APT2418,2025-02-19,Neurology,Follow-up,Attended,50.0,Yes,932.0
+APT2336,2025-01-11,Gynecology,Follow-up,No-Show,10.0,No,574.0
+APT2382,2025-01-19,Cardiology,Follow-up,Attended,28.0,No,923.0
+APT1190,2025-02-03,General Medicine,New,Attended,43.0,No,493.0
+APT1562,2025-02-28,Gynecology,Follow-up,Attended,29.0,Yes,567.0
+APT1981,2025-02-05,General Medicine,Follow-up,No-Show,20.0,No,376.0
+APT1656,2025-02-01,Cardiology,New,Attended,33.0,No,1295.0
+APT1763,2025-01-15,General Medicine,Follow-up,Attended,40.0,Yes,354.0
+APT1752,2025-02-21,Gynecology,Follow-up,Attended,50.0,Yes,599.0
+APT1168,2025-01-29,Gynecology,Follow-up,Attended,31.0,Yes,617.0
+APT1255,2025-01-22,Cardiology,New,Attended,44.0,Yes,1256.0
+APT1091,2025-02-27,ENT,New,Attended,8.0,Yes,706.0
+APT2319,2025-01-30,Dermatology,Follow-up,Cancelled,33.0,Yes,499.0
+APT2018,2025-01-24,Dermatology,New,No-Show,19.0,Yes,689.0
+APT2288,2025-01-19,General Medicine,New,Attended,49.0,No,503.0
+APT2201,2025-01-29,ENT,Follow-up,Attended,,Yes,456.0
+APT1720,2025-01-03,Orthopedics,New,Attended,57.0,No,883.0
+APT1880,2025-02-25,Neurology,Follow-up,Attended,46.0,Yes,936.0
+APT2194,2025-01-06,Orthopedics,Follow-up,Cancelled,54.0,No,660.0
+APT1250,2025-01-11,General Medicine,Follow-up,Attended,4.0,Yes,362.0
+APT1370,2025-02-02,General Medicine,Follow-up,Attended,22.0,No,351.0
+APT2414,2025-02-23,Pediatrics,New,Attended,8.0,No,643.0
+APT1169,2025-01-08,Cardiology,New,Attended,31.0,Yes,1214.0
+APT1073,2025-01-11,Gynecology,New,Attended,32.0,Yes,870.0
+APT2274,2025-02-11,Neurology,Follow-up,Cancelled,26.0,No,866.0
+APT1040,2025-01-27,Pediatrics,Follow-up,Attended,24.0,No,408.0
+APT1842,2025-01-24,Dermatology,New,Attended,43.0,Yes,687.0
+APT2130,2025-02-18,Cardiology,New,Cancelled,53.0,No,1182.0
+APT1393,2025-01-16,Pediatrics,New,Attended,42.0,Yes,629.0
+APT2140,2025-01-12,Dermatology,New,Attended,28.0,Yes,681.0
+APT1566,2025-02-23,Pediatrics,Follow-up,Attended,27.0,No,453.0
+APT2389,2025-03-01,Dermatology,Follow-up,Attended,9.0,Yes,529.0
+APT1423,2025-02-03,Dermatology,New,Attended,33.0,No,763.0
+APT1347,2025-02-21,Gynecology,Follow-up,Attended,50.0,No,616.0
+APT1800,2025-01-28,Cardiology,Follow-up,No-Show,31.0,Yes,865.0
+APT1421,2025-01-22,General Medicine,Follow-up,Attended,12.0,Yes,336.0
+APT2453,2025-02-03,Gynecology,New,Attended,42.0,No,836.0
+APT1703,2025-01-21,General Medicine,Follow-up,Attended,15.0,No,355.0
+APT2127,2025-02-04,Cardiology,Follow-up,Attended,29.0,No,919.0
+APT1744,2025-02-02,Cardiology,Follow-up,Attended,27.0,Yes,837.0
+APT2479,2025-02-05,General Medicine,Follow-up,Attended,32.0,No,375.0
+APT1568,2025-02-15,Gynecology,Follow-up,Attended,40.0,Yes,572.0
+APT2166,2025-01-02,General Medicine,New,Attended,38.0,Yes,477.0
+APT1296,2025-02-22,General Medicine,Follow-up,Attended,27.0,No,352.0
+APT2486,2025-01-21,Pediatrics,New,Attended,14.0,No,579.0
+APT1115,2025-02-17,General Medicine,Follow-up,No-Show,51.0,Yes,370.0
+APT2462,2025-02-03,Pediatrics,Follow-up,Attended,2.0,No,437.0
+APT2221,2025-01-09,General Medicine,Follow-up,Attended,61.0,Yes,341.0
+APT1468,2025-01-14,Pediatrics,Follow-up,Attended,40.0,Yes,409.0
+APT1897,2025-01-24,Pediatrics,Follow-up,Attended,23.0,Yes,403.0
+APT1450,2025-01-27,Neurology,New,Attended,48.0,Yes,1398.0
+APT2112,2025-02-06,General Medicine,Follow-up,Attended,12.0,Yes,359.0
+APT1892,2025-01-23,Cardiology,New,Cancelled,42.0,Yes,1158.0
+APT1760,2025-01-19,Dermatology,Follow-up,Cancelled,3.0,No,523.0
+APT1514,2025-02-04,Orthopedics,Follow-up,Attended,22.0,No,602.0
+APT1482,2025-01-17,Pediatrics,New,Attended,,Yes,638.0
+APT1782,2025-02-04,General Medicine,Follow-up,Attended,27.0,Yes,365.0
+APT1729,2025-01-16,General Medicine,New,Attended,,Yes,534.0
+APT2161,2025-01-17,Dermatology,New,Attended,39.0,Yes,673.0
+APT1387,2025-02-12,Neurology,New,Attended,35.0,Yes,1368.0
+APT1202,2025-01-23,ENT,New,Attended,32.0,Yes,648.0
+APT1502,2025-02-02,Dermatology,New,No-Show,24.0,Yes,734.0
+APT1884,2025-01-20,General Medicine,Follow-up,Attended,,Yes,344.0
+APT2169,2025-02-08,ENT,Follow-up,Attended,36.0,No,497.0
+APT1949,2025-02-13,General Medicine,New,Attended,44.0,Yes,524.0
+APT1109,2025-01-18,Dermatology,New,Attended,39.0,No,692.0
+APT1142,2025-02-12,Gynecology,New,Attended,46.0,No,877.0
+APT2270,2025-01-12,ENT,New,Attended,20.0,Yes,649.0
+APT1988,2025-02-26,Pediatrics,Follow-up,Attended,23.0,Yes,410.0
+APT1158,2025-01-29,Orthopedics,Follow-up,Attended,11.0,Yes,619.0
+APT1913,2025-02-25,General Medicine,Follow-up,Attended,27.0,No,349.0
+APT2387,2025-02-20,Orthopedics,Follow-up,Attended,30.0,Yes,691.0
+APT1702,2025-02-01,Neurology,New,Cancelled,,Yes,1377.0
+APT1214,2025-02-13,General Medicine,Follow-up,Attended,32.0,Yes,360.0
+APT2106,2025-01-07,General Medicine,Follow-up,Attended,41.0,No,374.0
+APT1623,2025-02-16,Neurology,New,Attended,44.0,Yes,1252.0
+APT2384,2025-02-24,Gynecology,New,Attended,36.0,No,830.0
+APT1586,2025-01-18,Dermatology,Follow-up,Attended,2.0,Yes,483.0
+APT1330,2025-03-01,Dermatology,New,No-Show,24.0,No,720.0
+APT2380,2025-01-26,General Medicine,New,Attended,40.0,Yes,534.0
+APT2337,2025-01-09,Dermatology,Follow-up,No-Show,26.0,No,483.0
+APT2125,2025-02-25,Orthopedics,Follow-up,Attended,42.0,No,651.0
+APT1428,2025-01-15,Orthopedics,Follow-up,No-Show,32.0,Yes,689.0
+APT1570,2025-02-16,ENT,New,No-Show,28.0,No,651.0
+APT2347,2025-02-19,Gynecology,Follow-up,Attended,28.0,Yes,585.0
+APT1646,2025-02-25,Pediatrics,New,Attended,32.0,Yes,583.0
+APT2092,2025-02-01,Orthopedics,New,No-Show,59.0,No,862.0
+APT2204,2025-01-24,General Medicine,Follow-up,Attended,18.0,Yes,361.0
+APT1710,2025-02-17,Pediatrics,New,Attended,27.0,Yes,583.0
+APT2489,2025-02-17,General Medicine,Follow-up,Attended,16.0,Yes,358.0
+APT1447,2025-02-21,General Medicine,New,No-Show,43.0,Yes,547.0
+APT2148,2025-02-06,Dermatology,Follow-up,Attended,15.0,Yes,491.0
+APT2061,2025-02-05,Neurology,Follow-up,Attended,38.0,No,969.0
+APT1821,2025-01-28,Neurology,Follow-up,Attended,46.0,Yes,957.0
+APT1516,2025-02-14,Neurology,New,Attended,45.0,No,1263.0
+APT1563,2025-01-12,Gynecology,New,Attended,42.0,Yes,817.0
+APT1272,2025-01-13,Orthopedics,New,Attended,,No,873.0
+APT1139,2025-02-16,Gynecology,Follow-up,Cancelled,27.0,Yes,591.0
+APT1737,2025-01-07,General Medicine,New,Attended,28.0,No,541.0
+APT1581,2025-02-20,Neurology,New,Attended,,Yes,1383.0
+APT2442,2025-01-05,Pediatrics,New,No-Show,18.0,No,648.0
+APT1431,2025-01-17,Pediatrics,Follow-up,Cancelled,13.0,Yes,402.0
+APT1845,2025-02-15,General Medicine,New,No-Show,47.0,No,485.0
+APT2087,2025-01-23,Orthopedics,Follow-up,Attended,30.0,Yes,662.0
+APT2053,2025-02-24,Dermatology,Follow-up,No-Show,11.0,No,492.0
+APT1749,2025-02-05,Orthopedics,New,Attended,58.0,Yes,956.0
+APT1807,2025-01-04,General Medicine,Follow-up,Attended,6.0,No,366.0
+APT2375,2025-01-02,Gynecology,New,Attended,69.0,No,832.0
+APT1688,2025-02-14,Dermatology,Follow-up,Attended,41.0,Yes,491.0
+APT2167,2025-02-17,Gynecology,Follow-up,Attended,52.0,No,650.0
+APT2006,2025-01-27,ENT,Follow-up,Attended,4.0,Yes,471.0
+APT2091,2025-01-07,Neurology,Follow-up,Attended,32.0,Yes,1000.0
+APT1091,2025-02-27,ENT,New,Attended,8.0,Yes,706.0
+APT1128,2025-01-23,Pediatrics,New,Attended,16.0,No,573.0
+APT1008,2025-02-17,Dermatology,Follow-up,Attended,20.0,Yes,507.0
+APT1311,2025-02-13,General Medicine,Follow-up,No-Show,24.0,No,377.0
+APT2216,2025-02-06,Neurology,Follow-up,Attended,34.0,Yes,878.0
+APT1526,2025-02-09,Neurology,Follow-up,Attended,42.0,Yes,872.0
+APT2075,2025-01-08,Neurology,New,Attended,27.0,Yes,1348.0
+APT1677,2025-01-31,Gynecology,Follow-up,Attended,23.0,Yes,648.0
+APT1206,2025-01-29,Cardiology,Follow-up,Attended,31.0,No,924.0
+APT2444,2025-02-17,Cardiology,Follow-up,Attended,,Yes,801.0
+APT1843,2025-02-03,ENT,New,Attended,40.0,No,637.0
+APT2427,2025-02-05,General Medicine,Follow-up,Attended,41.0,Yes,357.0
+APT1203,2025-01-08,Pediatrics,New,Attended,34.0,No,643.0
+APT1054,2025-01-15,General Medicine,Follow-up,Attended,37.0,No,334.0
+APT2116,2025-01-13,Orthopedics,Follow-up,Attended,24.0,Yes,599.0
+APT1488,2025-01-15,General Medicine,New,Attended,53.0,Yes,478.0
+APT1540,2025-01-07,Dermatology,New,Attended,13.0,Yes,742.0
+APT2083,2025-01-05,Gynecology,Follow-up,Attended,32.0,No,633.0
+APT1189,2025-01-06,General Medicine,New,Attended,54.0,No,487.0
+APT1108,2025-01-08,Gynecology,Follow-up,Attended,28.0,No,618.0
+APT1537,2025-01-27,Gynecology,New,Attended,35.0,No,931.0
+APT1521,2025-02-05,Pediatrics,Follow-up,Attended,2.0,Yes,430.0
+APT2338,2025-01-11,Neurology,Follow-up,Attended,41.0,No,909.0
+APT1550,2025-02-10,Pediatrics,Follow-up,Attended,21.0,Yes,403.0
+APT1022,2025-02-24,Orthopedics,Follow-up,Cancelled,51.0,No,647.0
+APT1376,2025-02-15,Dermatology,New,No-Show,,Yes,711.0
+APT1944,2025-02-03,Cardiology,Follow-up,Attended,31.0,Yes,883.0
+APT1594,2025-02-15,Gynecology,Follow-up,Attended,36.0,Yes,591.0
+APT2344,2025-01-18,Neurology,New,Attended,34.0,Yes,1410.0
+APT1205,2025-01-15,ENT,New,Cancelled,35.0,Yes,654.0
+APT1093,2025-01-10,Gynecology,Follow-up,Attended,28.0,Yes,608.0
+APT1224,2025-01-21,ENT,New,Attended,23.0,No,636.0
+APT2303,2025-01-31,Gynecology,Follow-up,Attended,127.0,Yes,607.0
+APT2072,2025-01-14,Cardiology,New,Attended,56.0,No,1221.0
+APT2027,2025-01-26,Gynecology,New,Attended,46.0,Yes,928.0
+APT2129,2025-01-22,Neurology,New,Attended,54.0,Yes,1381.0
+APT1440,2025-01-06,General Medicine,Follow-up,Attended,12.0,Yes,354.0
+APT1588,2025-02-03,Cardiology,New,No-Show,37.0,Yes,1304.0
+APT2220,2025-02-12,Gynecology,New,Attended,19.0,No,856.0
+APT1733,2025-02-01,Orthopedics,Follow-up,Cancelled,54.0,No,599.0
+APT1916,2025-01-21,Pediatrics,Follow-up,Attended,20.0,No,410.0
+APT1092,2025-01-11,Pediatrics,Follow-up,Attended,13.0,No,419.0
+APT1984,2025-01-06,Dermatology,New,No-Show,22.0,No,703.0
+APT2474,2025-01-14,General Medicine,New,Attended,46.0,No,534.0
+APT1270,2025-02-28,General Medicine,Follow-up,Attended,32.0,No,381.0
+APT2254,2025-02-19,Gynecology,New,Attended,54.0,Yes,833.0
+APT2071,2025-01-08,Gynecology,New,Attended,29.0,No,816.0
+APT1075,2025-01-04,Orthopedics,New,Attended,55.0,Yes,970.0
+APT2307,2025-01-10,Pediatrics,Follow-up,Cancelled,138.0,Yes,409.0
+APT2147,2025-01-30,Pediatrics,New,Attended,39.0,Yes,577.0
+APT2492,2025-01-20,Cardiology,New,Attended,37.0,Yes,1173.0
+APT1560,2025-01-24,Dermatology,Follow-up,Attended,5.0,Yes,519.0
+APT2219,2025-01-15,Cardiology,New,Attended,52.0,Yes,1145.0
+APT2122,2025-01-31,Orthopedics,Follow-up,Attended,46.0,Yes,620.0
+APT2310,2025-01-01,Gynecology,Follow-up,No-Show,26.0,No,610.0
+APT1246,2025-01-07,Cardiology,New,Attended,37.0,Yes,1318.0
+APT1792,2025-02-10,General Medicine,Follow-up,Attended,45.0,No,368.0
+APT2115,2025-02-26,Gynecology,New,Attended,23.0,Yes,931.0
+APT1469,2025-01-19,Gynecology,Follow-up,Attended,14.0,Yes,608.0
+APT2491,2025-01-04,Cardiology,Follow-up,Attended,43.0,Yes,867.0
+APT2378,2025-01-10,General Medicine,Follow-up,Attended,25.0,No,334.0
+APT2139,2025-02-09,Dermatology,New,Attended,18.0,Yes,769.0
+APT1130,2025-02-03,Neurology,Follow-up,Attended,43.0,No,911.0
+APT2257,2025-03-01,Dermatology,New,Attended,24.0,No,760.0
+APT1024,2025-02-23,Gynecology,Follow-up,Attended,33.0,No,599.0
+APT1583,2025-02-16,Gynecology,New,Attended,51.0,No,925.0
+APT1391,2025-02-22,General Medicine,New,Attended,32.0,No,487.0
+APT1716,2025-02-15,General Medicine,New,Attended,60.0,Yes,487.0
+APT1679,2025-02-03,Pediatrics,New,Attended,35.0,Yes,597.0
+APT2372,2025-01-22,Gynecology,New,Attended,18.0,Yes,909.0
+APT2381,2025-01-26,Dermatology,Follow-up,Attended,50.0,Yes,539.0
+APT1025,2025-01-06,ENT,Follow-up,Attended,40.0,Yes,443.0
+APT1155,2025-02-02,Gynecology,New,Attended,,Yes,872.0
+APT2433,2025-01-16,Orthopedics,New,No-Show,39.0,No,943.0
+APT1883,2025-01-23,Cardiology,New,Attended,44.0,Yes,1301.0
+APT1542,2025-01-21,ENT,New,No-Show,39.0,No,678.0
+APT2499,2025-01-14,Orthopedics,Follow-up,Attended,45.0,Yes,647.0
+APT1667,2025-02-01,Dermatology,Follow-up,Cancelled,17.0,Yes,483.0
+APT1914,2025-01-15,Pediatrics,Follow-up,Attended,15.0,No,446.0
+APT2121,2025-02-09,Dermatology,Follow-up,Attended,20.0,No,504.0
+APT1674,2025-01-28,ENT,Follow-up,Attended,24.0,Yes,456.0
+APT1445,2025-01-29,Dermatology,New,Cancelled,38.0,No,698.0
+APT1856,2025-02-10,Cardiology,Follow-up,Attended,31.0,No,923.0
+APT2350,2025-01-26,Neurology,New,Attended,,Yes,1254.0
+APT1958,2025-01-28,ENT,Follow-up,Attended,12.0,Yes,452.0
+APT1179,2025-02-17,Gynecology,New,Attended,36.0,Yes,867.0
+APT1902,2025-02-28,Pediatrics,Follow-up,Attended,2.0,Yes,440.0
+APT2352,2025-01-02,Pediatrics,New,Attended,112.0,Yes,570.0
+APT2334,2025-02-03,Pediatrics,New,Attended,27.0,No,620.0
+APT1010,2025-01-26,Cardiology,Follow-up,Attended,37.0,Yes,849.0
+APT1354,2025-02-17,Dermatology,New,Attended,18.0,Yes,715.0
+APT1067,2025-02-17,Cardiology,Follow-up,No-Show,43.0,No,805.0
+APT1145,2025-01-18,Cardiology,New,Attended,38.0,Yes,1170.0
+APT2085,2025-02-10,Gynecology,Follow-up,Attended,34.0,Yes,584.0
+APT1415,2025-01-06,General Medicine,Follow-up,Attended,30.0,No,352.0
+APT1989,2025-02-16,Pediatrics,Follow-up,Attended,12.0,Yes,432.0
+APT1506,2025-01-18,Gynecology,Follow-up,Attended,24.0,No,614.0
+APT1300,2025-02-20,Orthopedics,Follow-up,Cancelled,40.0,Yes,667.0
+APT1523,2025-01-13,General Medicine,New,Attended,21.0,No,529.0
+APT2461,2025-01-23,Cardiology,Follow-up,Attended,41.0,No,855.0
+APT2128,2025-01-15,Orthopedics,Follow-up,Cancelled,45.0,Yes,657.0
+APT1437,2025-01-30,Pediatrics,Follow-up,Attended,21.0,Yes,444.0
+APT2163,2025-02-17,Gynecology,Follow-up,Attended,8.0,Yes,630.0
+APT2394,2025-01-24,Neurology,New,Attended,,No,1302.0
+APT2487,2025-01-15,Cardiology,Follow-up,Attended,27.0,No,805.0
+APT1138,2025-01-10,General Medicine,Follow-up,Attended,33.0,No,343.0
+APT2228,2025-02-25,ENT,Follow-up,Attended,,Yes,484.0
+APT1195,2025-01-12,General Medicine,Follow-up,Attended,23.0,Yes,358.0
+APT2320,2025-02-17,Orthopedics,Follow-up,No-Show,38.0,Yes,657.0
+APT1449,2025-02-26,Orthopedics,New,Attended,58.0,Yes,955.0
+APT1811,2025-02-11,Orthopedics,New,Attended,47.0,Yes,871.0
+APT2196,2025-01-28,Pediatrics,Follow-up,No-Show,4.0,No,457.0
+APT1727,2025-02-23,Neurology,New,Attended,69.0,No,1364.0
+APT2392,2025-01-16,ENT,New,Attended,22.0,Yes,681.0
+APT1174,2025-01-10,Pediatrics,New,Attended,34.0,Yes,637.0
+APT1222,2025-01-10,Neurology,New,Attended,44.0,No,1395.0
+APT1254,2025-02-16,Dermatology,Follow-up,Attended,2.0,No,501.0
+APT2374,2025-02-18,ENT,New,Attended,31.0,Yes,677.0
+APT1385,2025-01-23,Dermatology,New,Attended,18.0,No,681.0
+APT2351,2025-02-10,Dermatology,Follow-up,Attended,14.0,No,517.0
+APT2420,2025-01-20,Cardiology,New,Attended,63.0,Yes,1250.0
+APT1761,2025-02-23,Dermatology,New,Attended,43.0,Yes,669.0
+APT2353,2025-02-03,ENT,Follow-up,No-Show,31.0,Yes,487.0
+APT1034,2025-02-05,General Medicine,New,Attended,24.0,Yes,544.0
+APT1806,2025-02-11,General Medicine,Follow-up,Attended,43.0,Yes,371.0
+APT1265,2025-02-01,Gynecology,Follow-up,Attended,23.0,Yes,609.0
+APT1557,2025-02-06,ENT,New,No-Show,20.0,No,686.0
+APT1089,2025-03-01,ENT,New,Attended,50.0,Yes,653.0
+APT1774,2025-02-12,Cardiology,Follow-up,Attended,37.0,Yes,826.0
+APT2152,2025-01-30,Pediatrics,New,Attended,38.0,Yes,619.0
+APT1719,2025-01-01,Neurology,Follow-up,Attended,50.0,No,913.0
+APT1000,2025-02-13,ENT,Follow-up,Attended,2.0,Yes,484.0
+APT2056,2025-01-24,Pediatrics,Follow-up,Attended,9.0,Yes,456.0
+APT1613,2025-01-07,Dermatology,New,No-Show,24.0,No,712.0
+APT1005,2025-01-29,Cardiology,New,Attended,29.0,No,1290.0
+APT1342,2025-01-13,Neurology,Follow-up,No-Show,138.0,Yes,910.0
+APT1888,2025-01-23,Dermatology,New,Attended,21.0,Yes,731.0
+APT1101,2025-01-03,General Medicine,New,Cancelled,46.0,No,522.0
+APT2405,2025-02-26,ENT,New,Attended,27.0,Yes,654.0
+APT1039,2025-02-24,Neurology,Follow-up,Attended,34.0,No,938.0
+APT1528,2025-02-13,General Medicine,Follow-up,Attended,49.0,Yes,355.0
+APT1665,2025-01-30,Dermatology,Follow-up,Attended,19.0,Yes,512.0
+APT1452,2025-01-04,Dermatology,Follow-up,No-Show,24.0,Yes,511.0
+APT1660,2025-02-03,Neurology,New,Attended,52.0,Yes,1358.0
+APT1124,2025-02-07,General Medicine,New,Attended,21.0,No,538.0
+APT1177,2025-02-27,Gynecology,Follow-up,Attended,5.0,Yes,608.0
+APT1136,2025-02-05,Cardiology,New,Attended,,No,1270.0
+APT1336,2025-01-01,Neurology,Follow-up,Attended,37.0,Yes,934.0
+APT1118,2025-01-29,Cardiology,New,No-Show,42.0,No,1190.0
+APT2077,2025-01-27,Dermatology,Follow-up,Attended,17.0,No,506.0
+APT2401,2025-01-16,General Medicine,New,Attended,19.0,No,526.0
+APT1505,2025-01-09,Pediatrics,New,Attended,33.0,Yes,632.0
+APT2261,2025-01-16,Gynecology,Follow-up,Attended,19.0,Yes,578.0
+APT1617,2025-01-26,Gynecology,New,Attended,30.0,No,924.0
+APT2379,2025-01-08,Pediatrics,Follow-up,Attended,108.0,Yes,410.0
+APT1955,2025-02-09,Dermatology,New,Attended,10.0,No,686.0
+APT1192,2025-01-29,General Medicine,Follow-up,Attended,43.0,No,337.0
+APT2400,2025-01-04,Pediatrics,New,Attended,36.0,Yes,608.0
+APT2398,2025-02-12,Orthopedics,Follow-up,Attended,,Yes,675.0
+APT1869,2025-02-26,Orthopedics,Follow-up,Attended,23.0,No,665.0
+APT1840,2025-01-24,Cardiology,Follow-up,Attended,32.0,No,894.0
+APT1135,2025-02-20,General Medicine,Follow-up,Attended,35.0,Yes,367.0
+APT1244,2025-01-19,Pediatrics,Follow-up,Attended,22.0,Yes,439.0
+APT1460,2025-01-11,Orthopedics,New,Attended,45.0,Yes,978.0
+APT1041,2025-01-29,Orthopedics,New,Attended,44.0,Yes,948.0
+APT1723,2025-01-11,Neurology,New,Attended,50.0,Yes,1369.0
+APT1899,2025-01-20,ENT,Follow-up,Attended,17.0,Yes,470.0
+APT1636,2025-01-05,ENT,New,No-Show,19.0,Yes,689.0
+APT1358,2025-01-19,Dermatology,New,Attended,,Yes,759.0
+APT1874,2025-01-30,General Medicine,New,Attended,53.0,No,476.0
+APT1297,2025-02-02,Cardiology,New,Attended,45.0,Yes,1187.0
+APT2213,2025-02-01,Neurology,Follow-up,Attended,11.0,Yes,920.0
+APT2293,2025-02-06,Orthopedics,Follow-up,No-Show,59.0,No,602.0
+APT1517,2025-02-18,ENT,New,Attended,19.0,Yes,671.0
+APT1558,2025-01-12,Orthopedics,New,Attended,39.0,Yes,865.0
+APT2095,2025-02-27,Neurology,Follow-up,Attended,,Yes,998.0
+APT1618,2025-02-11,Orthopedics,Follow-up,Attended,49.0,Yes,681.0
+APT1465,2025-01-17,Neurology,Follow-up,Attended,,No,948.0
+APT1410,2025-01-04,General Medicine,New,Attended,29.0,Yes,490.0
+APT2498,2025-02-26,General Medicine,New,Attended,29.0,Yes,483.0
+APT2258,2025-02-06,Orthopedics,Follow-up,Attended,20.0,No,606.0
+APT2422,2025-01-31,Orthopedics,Follow-up,Attended,26.0,Yes,601.0
+APT1038,2025-02-18,Pediatrics,Follow-up,No-Show,28.0,Yes,452.0
+APT1678,2025-01-16,Dermatology,New,Attended,15.0,No,710.0
+APT1079,2025-02-08,Neurology,Follow-up,Attended,42.0,No,996.0
+APT2312,2025-03-01,Cardiology,Follow-up,Attended,70.0,Yes,867.0
+APT1686,2025-01-15,General Medicine,Follow-up,Attended,23.0,Yes,333.0
+APT1491,2025-01-20,Dermatology,Follow-up,Attended,17.0,Yes,521.0
+APT1527,2025-01-09,Pediatrics,New,Attended,15.0,No,603.0
+APT2333,2025-02-18,General Medicine,Follow-up,Attended,23.0,Yes,338.0
+APT1759,2025-02-24,Cardiology,Follow-up,Attended,38.0,Yes,918.0
+APT2284,2025-02-10,Gynecology,New,No-Show,21.0,No,901.0
+APT1934,2025-02-22,General Medicine,Follow-up,Cancelled,38.0,Yes,341.0
+APT1954,2025-02-26,Orthopedics,New,Cancelled,68.0,Yes,961.0
+APT2264,2025-01-17,Orthopedics,New,Attended,42.0,No,984.0
+APT1693,2025-01-12,Cardiology,Follow-up,Attended,33.0,No,877.0
+APT1898,2025-02-17,Dermatology,Follow-up,Attended,16.0,Yes,493.0
+APT1420,2025-02-14,Neurology,Follow-up,Attended,26.0,No,983.0
+APT2209,2025-02-22,Orthopedics,Follow-up,No-Show,47.0,No,660.0
+APT2138,2025-02-28,Dermatology,New,Attended,31.0,Yes,746.0
+APT2343,2025-02-10,Orthopedics,New,Attended,33.0,Yes,925.0
+APT2449,2025-02-09,Neurology,Follow-up,Attended,31.0,Yes,976.0
+APT1590,2025-02-12,Dermatology,Follow-up,Cancelled,19.0,No,469.0
+APT2262,2025-01-03,Neurology,New,Attended,41.0,No,1334.0
+APT1457,2025-01-20,Gynecology,Follow-up,No-Show,23.0,No,635.0
+APT1766,2025-02-17,Neurology,Follow-up,Attended,19.0,Yes,976.0
+APT1111,2025-03-01,Orthopedics,New,Attended,51.0,Yes,868.0
+APT1901,2025-02-01,Neurology,Follow-up,Attended,31.0,Yes,879.0
+APT2407,2025-02-04,Pediatrics,New,No-Show,53.0,No,585.0
+APT2117,2025-01-02,Gynecology,Follow-up,Attended,26.0,No,649.0
+APT2137,2025-01-22,Pediatrics,Follow-up,Attended,21.0,Yes,430.0
+APT2038,2025-02-10,ENT,New,Attended,27.0,No,676.0
+APT1969,2025-02-28,Orthopedics,New,No-Show,45.0,Yes,954.0
+APT1102,2025-01-28,Cardiology,Follow-up,Attended,36.0,Yes,876.0
+APT1454,2025-02-24,Pediatrics,Follow-up,Attended,32.0,Yes,434.0
+APT2232,2025-01-07,Orthopedics,Follow-up,Attended,33.0,Yes,633.0
+APT2082,2025-01-12,Neurology,New,Attended,39.0,Yes,1340.0
+APT1663,2025-02-16,General Medicine,New,Attended,39.0,Yes,505.0
+APT2475,2025-02-25,Gynecology,Follow-up,Cancelled,49.0,No,629.0
+APT1861,2025-02-22,ENT,Follow-up,No-Show,8.0,Yes,486.0
+APT1941,2025-02-08,Pediatrics,New,Attended,47.0,Yes,618.0
+APT2144,2025-01-14,Pediatrics,New,Attended,28.0,Yes,659.0
+APT1756,2025-02-27,Gynecology,New,Attended,37.0,No,933.0
+APT2159,2025-02-21,ENT,Follow-up,Attended,14.0,Yes,442.0
+APT2104,2025-01-13,General Medicine,Follow-up,No-Show,33.0,No,341.0
+APT2434,2025-01-12,Dermatology,Follow-up,Attended,16.0,Yes,488.0
+APT1927,2025-02-24,Pediatrics,Follow-up,Attended,8.0,Yes,399.0
+APT1114,2025-02-21,ENT,Follow-up,Attended,6.0,No,491.0
+APT1068,2025-01-25,Cardiology,New,Attended,132.0,Yes,1294.0
+APT1911,2025-02-09,Orthopedics,Follow-up,Attended,35.0,No,656.0
+APT1546,2025-02-03,Gynecology,New,Attended,32.0,No,869.0
+APT1717,2025-01-14,Gynecology,Follow-up,Attended,,Yes,607.0
+APT2413,2025-01-11,General Medicine,Follow-up,Attended,29.0,Yes,363.0
+APT1726,2025-01-02,General Medicine,Follow-up,Attended,113.0,Yes,352.0
+APT1895,2025-02-05,Gynecology,New,Attended,26.0,No,912.0
+APT1649,2025-01-14,Pediatrics,Follow-up,Attended,12.0,No,454.0
+APT1271,2025-02-28,General Medicine,Follow-up,Attended,11.0,Yes,333.0
+APT1959,2025-02-12,Gynecology,Follow-up,Attended,35.0,Yes,619.0
+APT1786,2025-02-27,Cardiology,New,Attended,34.0,Yes,1258.0
+APT1252,2025-01-28,General Medicine,New,Attended,44.0,No,480.0
+APT1985,2025-01-14,Neurology,Follow-up,Attended,33.0,No,954.0
+APT1784,2025-01-19,Gynecology,Follow-up,Attended,131.0,No,592.0
+APT2199,2025-01-25,Neurology,New,Attended,39.0,Yes,1398.0
+APT1134,2025-03-01,Dermatology,Follow-up,Attended,2.0,Yes,515.0
+APT2041,2025-02-14,Dermatology,New,Attended,65.0,Yes,667.0
+APT2134,2025-02-10,Gynecology,New,Attended,63.0,Yes,854.0
+APT2038,2025-02-10,ENT,New,Attended,27.0,No,676.0
+APT2013,2025-02-12,Gynecology,Follow-up,No-Show,40.0,Yes,636.0
+APT1658,2025-01-11,General Medicine,New,No-Show,27.0,Yes,480.0
+APT1127,2025-02-01,Pediatrics,Follow-up,Attended,23.0,Yes,459.0
+APT2231,2025-02-03,Orthopedics,New,Attended,40.0,Yes,877.0
+APT2371,2025-02-03,ENT,Follow-up,Attended,25.0,Yes,481.0
+APT2123,2025-02-17,Orthopedics,Follow-up,No-Show,49.0,Yes,651.0
+APT1237,2025-02-21,General Medicine,New,Cancelled,27.0,No,497.0
+APT2362,2025-02-01,Orthopedics,New,No-Show,47.0,No,922.0
+APT2097,2025-01-29,Pediatrics,Follow-up,Cancelled,29.0,Yes,457.0
+APT1459,2025-01-18,ENT,Follow-up,Cancelled,7.0,No,462.0
+APT2136,2025-01-07,Neurology,New,Attended,63.0,Yes,1349.0
+APT1055,2025-01-15,General Medicine,New,Attended,42.0,No,475.0
+APT1769,2025-02-03,Pediatrics,Follow-up,Attended,27.0,No,431.0
+APT1074,2025-02-06,General Medicine,Follow-up,Attended,26.0,Yes,373.0
+APT2170,2025-01-17,General Medicine,New,Attended,34.0,Yes,524.0
+APT1105,2025-01-20,General Medicine,New,No-Show,29.0,Yes,528.0
+APT1163,2025-01-29,Neurology,New,Attended,31.0,Yes,1277.0
+APT2105,2025-02-03,Dermatology,Follow-up,Attended,18.0,Yes,467.0
+APT1953,2025-01-08,Gynecology,Follow-up,Attended,131.0,No,619.0
+APT1951,2025-01-27,Dermatology,New,Attended,24.0,Yes,682.0
+APT2068,2025-01-16,Pediatrics,Follow-up,Cancelled,22.0,No,407.0
+APT1639,2025-01-17,Dermatology,New,Attended,16.0,No,748.0
+APT2278,2025-01-02,ENT,Follow-up,Cancelled,6.0,Yes,462.0
+APT2179,2025-01-19,Cardiology,New,Attended,38.0,Yes,1311.0
+APT1518,2025-01-25,Gynecology,Follow-up,Attended,29.0,Yes,592.0
+APT2259,2025-01-07,Neurology,Follow-up,Attended,37.0,Yes,944.0
+APT1591,2025-02-19,Orthopedics,New,Attended,52.0,Yes,877.0
+APT2094,2025-02-04,ENT,New,No-Show,32.0,Yes,682.0
+APT1770,2025-01-21,General Medicine,Follow-up,Attended,31.0,No,343.0
+APT1412,2025-02-15,Cardiology,Follow-up,Attended,50.0,Yes,818.0
+APT2426,2025-02-22,Cardiology,Follow-up,Attended,39.0,Yes,851.0
+APT1555,2025-01-05,Pediatrics,Follow-up,Attended,32.0,Yes,432.0
+APT1543,2025-02-11,Gynecology,Follow-up,Attended,44.0,Yes,574.0
+APT2012,2025-02-28,Cardiology,Follow-up,Attended,39.0,No,838.0
+APT1536,2025-01-30,Cardiology,New,Attended,34.0,Yes,1238.0
+APT2035,2025-02-03,Cardiology,Follow-up,Attended,13.0,Yes,871.0
+APT2415,2025-02-20,Dermatology,Follow-up,Attended,2.0,Yes,530.0
+APT2034,2025-02-18,Cardiology,New,No-Show,47.0,No,1185.0
+APT2185,2025-01-05,ENT,Follow-up,No-Show,38.0,No,443.0
+APT1624,2025-01-27,Orthopedics,New,Attended,57.0,Yes,977.0
+APT1406,2025-01-20,Gynecology,New,Attended,23.0,Yes,865.0
+APT2305,2025-02-03,Gynecology,New,No-Show,37.0,Yes,853.0
+APT1644,2025-02-05,Cardiology,Follow-up,Attended,38.0,Yes,813.0
+APT1863,2025-01-13,Cardiology,New,No-Show,33.0,No,1320.0
+APT2217,2025-01-25,Neurology,Follow-up,Attended,58.0,No,954.0
+APT1446,2025-02-22,Cardiology,Follow-up,No-Show,29.0,No,803.0
+APT1664,2025-02-17,Cardiology,New,Attended,33.0,Yes,1231.0
+APT2042,2025-01-28,General Medicine,Follow-up,No-Show,34.0,Yes,337.0
+APT2022,2025-02-17,Gynecology,New,Cancelled,57.0,No,858.0
+APT1771,2025-01-22,Orthopedics,Follow-up,Attended,58.0,No,613.0
+APT1479,2025-01-22,General Medicine,Follow-up,Attended,24.0,Yes,376.0
+APT2230,2025-01-05,Neurology,Follow-up,No-Show,6.0,No,984.0
+APT1579,2025-01-26,Cardiology,Follow-up,Attended,22.0,Yes,889.0
+APT2325,2025-01-29,ENT,New,No-Show,34.0,No,656.0
+APT1261,2025-01-31,Cardiology,Follow-up,Attended,44.0,No,856.0
+APT1294,2025-02-03,Neurology,New,Attended,33.0,No,1272.0
+APT1721,2025-02-26,General Medicine,Follow-up,Attended,44.0,Yes,347.0
+APT1910,2025-02-22,Cardiology,New,Attended,53.0,Yes,1151.0
+APT2193,2025-01-30,General Medicine,Follow-up,Cancelled,42.0,Yes,334.0
+APT2369,2025-02-06,Neurology,Follow-up,Attended,135.0,Yes,918.0
+APT1965,2025-01-08,Pediatrics,New,Attended,12.0,Yes,628.0
+APT2064,2025-01-13,Pediatrics,New,Attended,28.0,Yes,578.0
+APT1159,2025-02-09,Cardiology,Follow-up,Attended,64.0,No,801.0
+APT2373,2025-01-27,Pediatrics,New,No-Show,40.0,No,635.0
+APT1650,2025-01-14,ENT,Follow-up,Cancelled,27.0,Yes,440.0
+APT1609,2025-01-13,Neurology,New,Attended,50.0,Yes,1415.0
+APT2248,2025-01-21,Pediatrics,Follow-up,Attended,44.0,Yes,401.0
+APT1333,2025-01-26,General Medicine,New,Attended,34.0,Yes,516.0
+APT2015,2025-01-09,Orthopedics,New,Attended,49.0,No,878.0
+APT1279,2025-02-06,ENT,Follow-up,Attended,23.0,No,469.0
+APT2458,2025-01-15,Cardiology,Follow-up,Attended,28.0,No,921.0
+APT1698,2025-02-21,Cardiology,Follow-up,Attended,26.0,No,902.0
+APT2468,2025-02-10,ENT,Follow-up,Attended,14.0,Yes,472.0
+APT1868,2025-02-01,Gynecology,Follow-up,Attended,27.0,Yes,576.0
+APT1629,2025-01-05,General Medicine,Follow-up,Attended,17.0,Yes,360.0
+APT1533,2025-01-19,Gynecology,Follow-up,Attended,33.0,No,646.0
+APT2279,2025-01-31,General Medicine,Follow-up,Attended,23.0,Yes,377.0
+APT1736,2025-02-07,Gynecology,New,Attended,39.0,Yes,854.0
+APT1014,2025-02-13,ENT,New,Cancelled,24.0,Yes,637.0
+APT1682,2025-02-09,Gynecology,Follow-up,Attended,40.0,Yes,608.0
+APT1995,2025-02-11,ENT,Follow-up,Attended,117.0,Yes,456.0
+APT1392,2025-01-07,General Medicine,Follow-up,Attended,20.0,Yes,364.0
+APT1422,2025-01-15,General Medicine,Follow-up,No-Show,37.0,No,334.0
+APT2287,2025-02-17,Dermatology,New,Attended,129.0,No,693.0
+APT1462,2025-01-23,Dermatology,New,Attended,120.0,No,729.0
+APT2399,2025-01-12,Dermatology,New,Attended,39.0,Yes,725.0
+APT1991,2025-02-16,Cardiology,New,No-Show,38.0,No,1310.0
+APT2238,2025-01-19,General Medicine,Follow-up,Attended,29.0,Yes,353.0
+APT1801,2025-01-24,Orthopedics,New,Attended,38.0,Yes,970.0
+APT2329,2025-02-09,Pediatrics,Follow-up,No-Show,2.0,No,438.0
+APT2472,2025-02-08,Orthopedics,Follow-up,No-Show,26.0,No,662.0
+APT2198,2025-01-06,General Medicine,New,Attended,22.0,Yes,495.0
+APT1908,2025-01-18,General Medicine,Follow-up,Cancelled,35.0,Yes,351.0
+APT1619,2025-01-17,General Medicine,New,Attended,42.0,Yes,483.0
+APT2173,2025-01-09,Pediatrics,New,Attended,48.0,Yes,589.0
+APT2103,2025-02-11,Pediatrics,Follow-up,Cancelled,19.0,No,436.0
+APT1236,2025-02-08,Gynecology,New,Attended,44.0,Yes,895.0
+APT1857,2025-02-04,General Medicine,Follow-up,Attended,49.0,Yes,372.0
+APT1873,2025-03-01,Orthopedics,New,No-Show,126.0,Yes,892.0
+APT1466,2025-02-17,General Medicine,Follow-up,Attended,51.0,Yes,352.0
+APT2067,2025-02-26,Pediatrics,New,Attended,29.0,Yes,591.0
+APT1753,2025-01-11,Pediatrics,New,Cancelled,22.0,Yes,650.0
+APT2142,2025-02-21,ENT,Follow-up,No-Show,18.0,No,436.0
+APT1882,2025-01-01,Gynecology,Follow-up,Attended,57.0,Yes,641.0
+APT1291,2025-02-05,Gynecology,Follow-up,Attended,39.0,Yes,649.0
+APT1233,2025-02-24,Neurology,New,Attended,59.0,Yes,1249.0
+APT1741,2025-02-05,General Medicine,Follow-up,Attended,34.0,Yes,357.0
+APT2175,2025-01-25,Orthopedics,Follow-up,Attended,39.0,No,601.0
+APT1409,2025-01-19,General Medicine,Follow-up,Attended,3.0,Yes,357.0
+APT1850,2025-01-08,Pediatrics,Follow-up,No-Show,23.0,No,424.0
+APT2249,2025-02-04,General Medicine,Follow-up,No-Show,20.0,No,376.0
+APT2171,2025-02-13,General Medicine,New,No-Show,39.0,No,533.0
+APT1319,2025-02-18,Cardiology,New,Attended,62.0,Yes,1315.0
+APT1742,2025-01-29,Pediatrics,Follow-up,Attended,28.0,Yes,403.0
+APT2207,2025-01-27,Gynecology,Follow-up,Attended,12.0,Yes,604.0
+APT2242,2025-01-02,Gynecology,Follow-up,Attended,21.0,Yes,654.0
+APT2029,2025-02-11,General Medicine,New,Attended,45.0,Yes,490.0
+APT2131,2025-01-07,Neurology,New,Attended,45.0,Yes,1425.0
+APT1049,2025-02-15,Cardiology,New,Attended,48.0,Yes,1219.0
+APT1785,2025-02-03,General Medicine,Follow-up,Attended,23.0,No,346.0
+APT1059,2025-02-12,Neurology,New,Attended,52.0,No,1373.0
+APT2212,2025-02-11,ENT,Follow-up,Attended,36.0,Yes,456.0
+APT1973,2025-01-29,Cardiology,New,Attended,62.0,Yes,1228.0
+APT1461,2025-02-25,Pediatrics,Follow-up,Attended,7.0,Yes,446.0
+APT2315,2025-02-05,General Medicine,Follow-up,Attended,23.0,Yes,359.0
+APT1534,2025-02-01,Pediatrics,Follow-up,Attended,12.0,Yes,452.0
+APT1628,2025-02-03,General Medicine,Follow-up,Attended,50.0,Yes,348.0
+APT1928,2025-01-31,Pediatrics,Follow-up,No-Show,43.0,Yes,460.0
+APT2250,2025-02-02,Pediatrics,Follow-up,Attended,24.0,Yes,417.0
+APT1950,2025-02-20,Orthopedics,New,Attended,37.0,Yes,890.0
+APT2477,2025-01-09,General Medicine,Follow-up,Attended,21.0,Yes,379.0
+APT2323,2025-02-06,Neurology,Follow-up,Attended,62.0,No,912.0
+APT1401,2025-01-19,General Medicine,Follow-up,Attended,28.0,Yes,336.0
+APT1990,2025-01-11,Pediatrics,New,Attended,31.0,Yes,620.0
+APT1371,2025-02-10,ENT,Follow-up,No-Show,28.0,No,449.0
+APT1399,2025-02-15,Cardiology,Follow-up,Attended,40.0,No,917.0
+APT1980,2025-02-24,Pediatrics,New,Attended,139.0,Yes,622.0
+APT2404,2025-02-17,ENT,Follow-up,Attended,39.0,No,496.0
+APT2004,2025-01-20,General Medicine,Follow-up,Attended,30.0,No,365.0
+APT2208,2025-02-17,Gynecology,Follow-up,Attended,24.0,Yes,651.0
+APT1037,2025-01-03,General Medicine,New,Attended,41.0,Yes,503.0
+APT1589,2025-01-07,Orthopedics,Follow-up,Attended,44.0,Yes,691.0
+APT1673,2025-01-21,ENT,Follow-up,Attended,23.0,Yes,460.0
+APT2080,2025-01-16,Pediatrics,Follow-up,Attended,47.0,No,414.0
+APT1106,2025-01-04,ENT,Follow-up,Attended,20.0,Yes,480.0
+APT1322,2025-02-25,Dermatology,Follow-up,Attended,27.0,No,489.0
+APT1351,2025-02-17,Dermatology,Follow-up,Attended,27.0,No,499.0
+APT1356,2025-01-04,ENT,Follow-up,Attended,21.0,Yes,458.0
+APT1835,2025-02-11,Gynecology,Follow-up,Attended,18.0,Yes,579.0
+APT1715,2025-01-28,Orthopedics,New,Attended,41.0,Yes,947.0
+APT1251,2025-01-02,Cardiology,Follow-up,Attended,43.0,Yes,871.0
+APT2183,2025-02-27,Orthopedics,Follow-up,Attended,36.0,Yes,675.0
+APT2079,2025-02-06,Pediatrics,New,Attended,10.0,Yes,617.0
+APT1847,2025-02-03,Gynecology,New,No-Show,,Yes,900.0
+APT1390,2025-02-08,Gynecology,New,Attended,49.0,Yes,930.0
+APT1443,2025-01-10,General Medicine,Follow-up,Attended,41.0,Yes,353.0
+APT1567,2025-01-18,ENT,New,Attended,28.0,Yes,633.0
+APT1215,2025-02-18,General Medicine,Follow-up,Attended,,Yes,354.0
+APT1338,2025-03-01,Cardiology,Follow-up,Attended,9.0,Yes,885.0
+APT1794,2025-01-31,Gynecology,New,Attended,54.0,Yes,912.0
+APT2028,2025-02-26,Cardiology,Follow-up,No-Show,51.0,Yes,921.0
+APT1909,2025-02-01,General Medicine,Follow-up,Attended,49.0,No,351.0
+APT1056,2025-02-28,General Medicine,Follow-up,Cancelled,2.0,No,375.0
+APT1668,2025-02-28,General Medicine,New,Attended,19.0,Yes,537.0
+APT1632,2025-02-17,Pediatrics,Follow-up,Attended,116.0,Yes,399.0
+APT1681,2025-01-14,Gynecology,Follow-up,Attended,43.0,No,640.0
+APT1803,2025-02-08,Orthopedics,New,Attended,81.0,Yes,886.0
+APT1181,2025-02-01,General Medicine,New,Attended,23.0,Yes,505.0
+APT1053,2025-01-19,Neurology,New,Attended,47.0,No,1398.0
+APT2040,2025-01-03,Pediatrics,New,Attended,41.0,Yes,646.0
+APT2406,2025-02-01,Cardiology,Follow-up,Attended,61.0,No,912.0
+APT1346,2025-01-23,Gynecology,Follow-up,Attended,25.0,No,583.0
+APT1231,2025-02-27,ENT,Follow-up,Attended,43.0,No,476.0
+APT1151,2025-01-26,General Medicine,New,Attended,20.0,No,506.0
+APT1500,2025-01-30,Gynecology,Follow-up,Cancelled,29.0,Yes,573.0
+APT2285,2025-01-04,Pediatrics,Follow-up,Attended,19.0,Yes,403.0
+APT1827,2025-02-17,General Medicine,Follow-up,Attended,40.0,Yes,376.0
+APT1230,2025-01-21,Gynecology,Follow-up,Attended,58.0,Yes,568.0
+APT1925,2025-02-05,General Medicine,New,Cancelled,38.0,Yes,514.0
+APT1524,2025-02-01,General Medicine,Follow-up,Attended,48.0,Yes,349.0
+APT2141,2025-02-13,Dermatology,New,Attended,35.0,Yes,684.0
+APT1021,2025-02-09,ENT,New,Attended,14.0,No,672.0
+APT1405,2025-01-30,Dermatology,New,Attended,43.0,Yes,691.0
+APT1257,2025-01-15,General Medicine,Follow-up,Attended,23.0,Yes,381.0
+APT1929,2025-01-23,General Medicine,Follow-up,Attended,2.0,Yes,358.0
+APT1700,2025-02-21,Cardiology,New,Cancelled,62.0,No,1240.0
+APT1388,2025-02-25,Pediatrics,Follow-up,Attended,28.0,Yes,455.0
+APT1694,2025-02-24,General Medicine,New,Attended,34.0,Yes,498.0
+APT1525,2025-01-08,Dermatology,New,No-Show,31.0,Yes,680.0
+APT2411,2025-01-09,Cardiology,Follow-up,Attended,,Yes,815.0
+APT1185,2025-02-02,Neurology,New,Attended,57.0,Yes,1296.0
+APT1942,2025-02-08,Gynecology,New,Attended,14.0,No,858.0
+APT1043,2025-02-09,Gynecology,Follow-up,Attended,42.0,Yes,627.0
+APT1473,2025-01-19,ENT,New,Attended,25.0,Yes,697.0
+APT1852,2025-02-18,Pediatrics,Follow-up,Attended,2.0,Yes,452.0
+APT2189,2025-02-19,General Medicine,New,No-Show,38.0,Yes,522.0
+APT1340,2025-02-09,Dermatology,New,No-Show,29.0,Yes,667.0
+APT2088,2025-02-26,Dermatology,New,Attended,8.0,Yes,750.0
+APT2246,2025-02-12,Dermatology,Follow-up,Attended,11.0,No,502.0
+APT2493,2025-01-20,Cardiology,New,No-Show,62.0,No,1163.0
+APT1960,2025-01-24,Pediatrics,Follow-up,Attended,29.0,Yes,427.0
+APT2120,2025-01-29,General Medicine,Follow-up,Attended,30.0,Yes,381.0
+APT1315,2025-01-22,General Medicine,Follow-up,No-Show,40.0,No,345.0
+APT1329,2025-01-15,General Medicine,Follow-up,Attended,25.0,Yes,338.0
+APT1512,2025-02-20,Neurology,Follow-up,Attended,15.0,Yes,915.0
+APT2490,2025-02-17,Cardiology,Follow-up,Attended,56.0,Yes,858.0
+APT1345,2025-01-28,ENT,New,Attended,7.0,Yes,652.0
+APT1832,2025-01-23,Orthopedics,Follow-up,Attended,40.0,Yes,630.0
+APT1683,2025-01-14,General Medicine,New,Attended,45.0,Yes,549.0
+APT2002,2025-01-01,Dermatology,Follow-up,Attended,,No,492.0
+APT2460,2025-01-14,ENT,Follow-up,No-Show,28.0,Yes,496.0
+APT1772,2025-01-21,Dermatology,Follow-up,Attended,35.0,Yes,490.0
+APT1066,2025-01-17,Orthopedics,Follow-up,Attended,47.0,Yes,648.0
+APT1932,2025-01-10,Neurology,New,No-Show,54.0,No,1423.0
+APT2454,2025-02-23,Pediatrics,New,Attended,32.0,Yes,634.0
+APT2355,2025-01-04,Orthopedics,Follow-up,Attended,38.0,Yes,622.0
+APT1643,2025-02-13,Gynecology,New,Attended,48.0,Yes,810.0
+APT2328,2025-01-13,Cardiology,New,No-Show,41.0,No,1298.0
+APT1808,2025-01-15,General Medicine,New,Attended,51.0,Yes,548.0
+APT1645,2025-01-18,Cardiology,Follow-up,Attended,18.0,Yes,872.0
+APT1417,2025-02-12,Gynecology,New,Attended,23.0,Yes,831.0
+APT2282,2025-01-28,Neurology,Follow-up,Attended,63.0,No,960.0
+APT2496,2025-01-15,Pediatrics,Follow-up,Attended,22.0,Yes,439.0
+APT1541,2025-01-19,Pediatrics,Follow-up,Attended,29.0,No,405.0
+APT2363,2025-01-08,Cardiology,Follow-up,Attended,25.0,No,891.0
+APT1313,2025-01-10,Gynecology,Follow-up,Attended,36.0,Yes,589.0
+APT1306,2025-02-15,Orthopedics,Follow-up,Attended,31.0,Yes,616.0
+APT1940,2025-02-27,General Medicine,New,Attended,20.0,Yes,478.0
+APT1129,2025-01-08,Neurology,Follow-up,Attended,41.0,Yes,890.0
+APT1395,2025-02-22,Dermatology,New,Attended,48.0,Yes,671.0
+APT2376,2025-01-26,Dermatology,Follow-up,Attended,21.0,No,469.0
+APT1326,2025-02-23,Pediatrics,Follow-up,No-Show,41.0,No,445.0
+APT1191,2025-01-03,General Medicine,New,Attended,39.0,Yes,522.0
+APT1722,2025-02-23,Gynecology,Follow-up,Attended,30.0,Yes,632.0
+APT2126,2025-01-18,General Medicine,Follow-up,Attended,41.0,Yes,347.0
+APT1993,2025-02-09,General Medicine,Follow-up,Attended,17.0,Yes,371.0
+APT1920,2025-01-16,Gynecology,Follow-up,Cancelled,30.0,Yes,608.0
+APT1495,2025-01-16,ENT,New,No-Show,35.0,No,667.0
+APT2032,2025-01-06,General Medicine,Follow-up,Attended,50.0,Yes,352.0
+APT1867,2025-02-13,Cardiology,New,Attended,37.0,No,1209.0
+APT1384,2025-01-29,General Medicine,New,Attended,43.0,No,550.0
+APT2214,2025-01-26,Cardiology,Follow-up,Attended,45.0,No,875.0
+APT1652,2025-02-09,Orthopedics,New,Attended,60.0,Yes,884.0
+APT2233,2025-01-15,Pediatrics,Follow-up,Attended,15.0,Yes,439.0
+APT1397,2025-02-03,Pediatrics,New,Attended,44.0,No,623.0
+APT1946,2025-01-05,Gynecology,New,Attended,55.0,No,879.0
+APT2111,2025-02-28,Pediatrics,Follow-up,Attended,29.0,Yes,443.0
+APT2478,2025-02-20,General Medicine,New,Attended,36.0,Yes,537.0
+APT1724,2025-02-26,General Medicine,Follow-up,No-Show,42.0,Yes,340.0
+APT1532,2025-01-25,Pediatrics,Follow-up,Cancelled,5.0,Yes,411.0
+APT1762,2025-01-26,Orthopedics,Follow-up,No-Show,70.0,No,645.0
+APT1161,2025-02-03,Orthopedics,Follow-up,Attended,50.0,Yes,605.0
+APT2241,2025-02-07,Pediatrics,New,Attended,35.0,No,639.0
+APT1936,2025-02-18,ENT,New,Cancelled,23.0,No,663.0
+APT2039,2025-01-07,Cardiology,New,Attended,54.0,Yes,1291.0
+APT2073,2025-02-25,General Medicine,Follow-up,Attended,35.0,Yes,346.0
+APT2265,2025-01-27,Pediatrics,New,Attended,20.0,Yes,583.0
+APT1020,2025-01-15,Gynecology,New,Attended,18.0,No,843.0
+APT1569,2025-02-05,Gynecology,New,Attended,42.0,Yes,868.0
+APT1653,2025-01-30,ENT,Follow-up,Attended,15.0,Yes,475.0
+APT1696,2025-02-19,General Medicine,Follow-up,Attended,28.0,Yes,355.0
+APT1481,2025-02-27,Pediatrics,Follow-up,Cancelled,34.0,Yes,450.0
+APT1033,2025-02-09,Gynecology,New,Attended,25.0,Yes,821.0
+APT2049,2025-01-26,Dermatology,Follow-up,Attended,36.0,Yes,479.0
+APT1047,2025-02-01,ENT,Follow-up,Attended,13.0,No,440.0
+APT1029,2025-01-08,Neurology,New,Attended,52.0,Yes,1291.0
+APT2005,2025-01-27,Orthopedics,Follow-up,Attended,7.0,No,627.0
+APT2101,2025-01-19,General Medicine,New,Attended,43.0,Yes,498.0
+APT2133,2025-02-08,Gynecology,Follow-up,No-Show,40.0,No,592.0
+APT2272,2025-01-14,Pediatrics,New,Attended,33.0,Yes,588.0
+APT1510,2025-01-23,Cardiology,New,Attended,42.0,Yes,1180.0
+APT1530,2025-02-17,ENT,Follow-up,Attended,14.0,Yes,466.0
+APT1922,2025-02-23,General Medicine,Follow-up,Attended,51.0,Yes,373.0
+APT1501,2025-02-20,Neurology,Follow-up,Attended,23.0,Yes,912.0
+APT1432,2025-02-28,General Medicine,New,Attended,20.0,No,489.0
+APT1253,2025-02-18,Gynecology,New,Attended,34.0,Yes,833.0
+APT2455,2025-01-14,General Medicine,New,Attended,64.0,No,517.0
+APT2366,2025-01-11,Pediatrics,Follow-up,Attended,27.0,No,460.0
+APT2327,2025-02-26,General Medicine,Follow-up,Attended,40.0,No,347.0
+APT1779,2025-02-12,Cardiology,New,Attended,21.0,Yes,1148.0
+APT1366,2025-01-04,Neurology,New,No-Show,60.0,Yes,1367.0
+APT2076,2025-02-28,ENT,Follow-up,Attended,31.0,Yes,474.0
+APT2078,2025-02-15,General Medicine,New,Attended,37.0,No,500.0
+APT1680,2025-02-21,General Medicine,Follow-up,Attended,28.0,Yes,335.0
+APT2200,2025-01-30,Neurology,Follow-up,No-Show,56.0,No,990.0
+APT1812,2025-02-09,Cardiology,Follow-up,Attended,29.0,No,919.0
+APT1735,2025-02-07,Dermatology,New,No-Show,37.0,Yes,735.0
+APT2048,2025-01-19,Orthopedics,Follow-up,Attended,37.0,No,686.0
+APT1298,2025-01-16,Dermatology,New,Attended,24.0,Yes,727.0
+APT1556,2025-01-06,General Medicine,New,No-Show,32.0,No,483.0
+APT1575,2025-02-18,General Medicine,Follow-up,Attended,15.0,Yes,373.0
+APT1018,2025-01-27,General Medicine,Follow-up,Attended,38.0,No,358.0
+APT1572,2025-02-19,ENT,New,Attended,35.0,No,623.0
+APT1225,2025-02-17,Neurology,Follow-up,Attended,25.0,No,929.0
+APT1599,2025-01-15,General Medicine,Follow-up,Attended,42.0,Yes,371.0
+APT1419,2025-01-09,ENT,Follow-up,No-Show,11.0,No,473.0
+APT2168,2025-02-15,Cardiology,Follow-up,Attended,31.0,No,848.0
+APT1218,2025-01-08,Pediatrics,Follow-up,Attended,17.0,Yes,416.0
+APT1307,2025-01-22,Cardiology,Follow-up,Attended,30.0,Yes,806.0
+APT1156,2025-02-15,ENT,New,Attended,21.0,Yes,629.0
+APT1171,2025-02-04,Pediatrics,Follow-up,Attended,31.0,No,405.0
+APT2188,2025-02-27,General Medicine,New,Attended,28.0,Yes,504.0
+APT1705,2025-01-25,Cardiology,Follow-up,Attended,28.0,Yes,816.0
+APT1286,2025-01-03,Cardiology,New,Attended,45.0,Yes,1217.0
+APT2090,2025-01-01,Neurology,New,No-Show,44.0,No,1409.0
+APT1453,2025-02-17,General Medicine,Follow-up,Attended,25.0,No,341.0
+APT2459,2025-02-04,Pediatrics,New,Attended,14.0,Yes,657.0
+APT1071,2025-01-10,General Medicine,Follow-up,Attended,17.0,No,340.0
+APT1082,2025-02-08,ENT,Follow-up,Attended,2.0,Yes,486.0
+APT2205,2025-01-08,Cardiology,Follow-up,Attended,,Yes,920.0
+APT2445,2025-02-18,Neurology,Follow-up,Attended,42.0,No,996.0
+APT1015,2025-01-19,Pediatrics,Follow-up,Attended,16.0,Yes,439.0
+APT1535,2025-01-23,Gynecology,Follow-up,Cancelled,21.0,Yes,588.0
+APT2154,2025-02-05,ENT,Follow-up,Attended,20.0,Yes,446.0
+APT1918,2025-02-26,Dermatology,Follow-up,Attended,40.0,No,518.0
+APT1451,2025-02-01,Gynecology,Follow-up,Attended,30.0,No,574.0
+APT2151,2025-01-16,General Medicine,Follow-up,Attended,27.0,No,374.0
+APT1404,2025-02-21,Neurology,Follow-up,Cancelled,,Yes,948.0
+APT2391,2025-02-06,ENT,Follow-up,No-Show,17.0,No,470.0
+APT2349,2025-01-13,General Medicine,New,Attended,48.0,Yes,491.0
+APT1739,2025-02-10,Gynecology,Follow-up,Attended,28.0,No,629.0
+APT1364,2025-01-07,General Medicine,Follow-up,No-Show,43.0,Yes,376.0
+APT1104,2025-02-08,Orthopedics,New,Attended,53.0,No,911.0
+APT2397,2025-02-03,Pediatrics,New,Attended,36.0,No,653.0
+APT2239,2025-02-20,Dermatology,Follow-up,Attended,,Yes,516.0
+APT1661,2025-01-12,Neurology,New,Attended,48.0,Yes,1351.0
+APT1241,2025-01-30,Dermatology,Follow-up,Attended,5.0,No,471.0
+APT1430,2025-01-25,Pediatrics,Follow-up,Attended,31.0,Yes,434.0
+APT1814,2025-01-12,Dermatology,New,Attended,2.0,No,741.0
+APT1630,2025-02-24,Orthopedics,Follow-up,Attended,33.0,Yes,605.0
+APT1096,2025-02-21,General Medicine,New,Attended,34.0,Yes,479.0
+APT1467,2025-01-31,Orthopedics,New,Attended,60.0,Yes,857.0
+APT1084,2025-01-23,General Medicine,Follow-up,Attended,18.0,No,375.0
+APT1701,2025-01-19,Dermatology,New,Attended,35.0,Yes,726.0
+APT1009,2025-01-19,General Medicine,New,Attended,21.0,Yes,479.0
+APT1604,2025-01-06,ENT,Follow-up,Attended,13.0,Yes,488.0
+APT1878,2025-02-09,Pediatrics,New,No-Show,47.0,No,605.0
+APT1773,2025-02-09,Pediatrics,Follow-up,Attended,36.0,Yes,423.0
+APT2162,2025-01-10,General Medicine,Follow-up,Attended,16.0,No,356.0
+APT1276,2025-01-28,Dermatology,Follow-up,Attended,29.0,Yes,518.0
+APT1088,2025-01-12,ENT,Follow-up,Cancelled,16.0,No,471.0
+APT1090,2025-02-23,General Medicine,New,Attended,38.0,Yes,507.0
+APT1765,2025-02-01,Cardiology,Follow-up,Attended,13.0,Yes,923.0
+APT1280,2025-02-15,General Medicine,New,Attended,34.0,No,483.0
+APT2007,2025-02-23,Neurology,New,Attended,48.0,No,1380.0
+APT1651,2025-01-28,Orthopedics,New,Attended,58.0,No,910.0
+APT1992,2025-02-02,Neurology,New,Attended,36.0,No,1333.0
+APT1365,2025-01-05,Gynecology,Follow-up,Attended,36.0,No,624.0
+APT1023,2025-01-16,Neurology,New,Attended,31.0,Yes,1381.0
+APT1676,2025-02-04,Cardiology,Follow-up,Attended,18.0,Yes,834.0
+APT1998,2025-01-29,Gynecology,New,Attended,40.0,Yes,932.0
+APT1310,2025-01-01,Orthopedics,New,Cancelled,62.0,Yes,894.0
+APT2060,2025-01-09,Cardiology,Follow-up,Attended,23.0,Yes,904.0
+APT1640,2025-02-23,Gynecology,New,Attended,58.0,Yes,913.0
+APT1240,2025-02-02,Orthopedics,New,Attended,43.0,No,919.0
+APT1666,2025-02-16,Dermatology,New,Attended,132.0,Yes,670.0
+APT2295,2025-01-06,Orthopedics,Follow-up,Attended,47.0,No,610.0
+APT1098,2025-01-25,General Medicine,Follow-up,No-Show,,Yes,350.0
+APT1167,2025-02-19,Pediatrics,New,Attended,39.0,No,622.0
+APT1496,2025-02-14,General Medicine,New,Attended,41.0,No,481.0
+APT1275,2025-01-24,Pediatrics,New,Attended,25.0,No,588.0
+APT2113,2025-01-11,Pediatrics,Follow-up,Attended,18.0,No,454.0
+APT1714,2025-01-01,General Medicine,Follow-up,Attended,16.0,Yes,384.0
+APT2263,2025-01-05,Gynecology,Follow-up,Attended,24.0,Yes,647.0
+APT1331,2025-02-03,General Medicine,Follow-up,No-Show,23.0,No,376.0
+APT1219,2025-01-16,General Medicine,New,Cancelled,15.0,No,478.0
+APT1433,2025-02-15,Neurology,Follow-up,Attended,36.0,Yes,961.0
+APT2448,2025-01-07,ENT,Follow-up,Attended,44.0,No,495.0
+APT2286,2025-02-11,General Medicine,New,Attended,35.0,No,544.0
+APT1486,2025-01-23,Pediatrics,Follow-up,Attended,12.0,Yes,454.0
+APT1531,2025-01-10,General Medicine,New,No-Show,40.0,No,517.0
+APT2304,2025-02-04,Gynecology,Follow-up,Cancelled,37.0,No,584.0
+APT1260,2025-02-13,Pediatrics,Follow-up,Cancelled,34.0,Yes,429.0
+APT1810,2025-01-08,Orthopedics,New,No-Show,136.0,No,904.0
+APT1305,2025-02-13,Neurology,Follow-up,Attended,50.0,No,936.0
+APT2268,2025-01-24,Pediatrics,Follow-up,Cancelled,24.0,Yes,440.0
+APT1196,2025-02-05,Pediatrics,New,Attended,47.0,Yes,575.0
+APT2164,2025-01-11,Cardiology,Follow-up,Attended,21.0,No,906.0
+APT2146,2025-02-09,Cardiology,Follow-up,No-Show,19.0,No,822.0
+APT1494,2025-01-14,ENT,Follow-up,Attended,37.0,No,499.0
+APT1110,2025-02-13,Dermatology,New,Attended,41.0,Yes,745.0
+APT2108,2025-01-25,Pediatrics,New,Attended,16.0,No,608.0
+APT1513,2025-01-13,General Medicine,Follow-up,Attended,29.0,Yes,334.0
+APT1691,2025-02-24,Orthopedics,New,No-Show,45.0,Yes,869.0
+APT1369,2025-01-22,General Medicine,Follow-up,Attended,17.0,No,376.0
+APT1793,2025-01-22,General Medicine,Follow-up,Attended,36.0,Yes,383.0
+APT2098,2025-02-21,Orthopedics,Follow-up,Attended,153.0,Yes,638.0
+APT1926,2025-01-06,Gynecology,Follow-up,Attended,,No,632.0
+APT1273,2025-01-04,Neurology,Follow-up,Cancelled,45.0,Yes,933.0
+APT1396,2025-02-22,Pediatrics,Follow-up,Attended,14.0,Yes,434.0
+APT2178,2025-02-03,ENT,Follow-up,Cancelled,23.0,No,449.0
+APT1330,2025-03-01,Dermatology,New,No-Show,24.0,No,720.0
+APT2215,2025-01-08,General Medicine,New,Attended,34.0,Yes,543.0
+APT1797,2025-01-04,General Medicine,Follow-up,Attended,42.0,No,339.0
+APT2211,2025-02-07,Cardiology,New,Attended,26.0,Yes,1149.0
+APT2074,2025-02-25,Gynecology,Follow-up,Attended,31.0,No,630.0
+APT2062,2025-01-27,ENT,Follow-up,Attended,18.0,Yes,460.0
+APT1961,2025-02-24,ENT,Follow-up,Attended,30.0,Yes,471.0
+APT1418,2025-02-26,Cardiology,New,Attended,52.0,Yes,1314.0
+APT1375,2025-02-18,ENT,Follow-up,Attended,32.0,Yes,476.0
+APT1463,2025-01-08,Gynecology,Follow-up,Attended,41.0,No,616.0
+APT1470,2025-01-17,Neurology,Follow-up,Attended,49.0,Yes,935.0
+APT2099,2025-02-10,Cardiology,New,Attended,41.0,Yes,1224.0
+APT1559,2025-02-28,Dermatology,New,Attended,22.0,Yes,757.0
+APT1302,2025-01-19,General Medicine,Follow-up,Attended,15.0,No,369.0
+APT1582,2025-02-20,Pediatrics,New,Attended,45.0,No,584.0
+APT1798,2025-01-26,Gynecology,Follow-up,No-Show,54.0,No,581.0
+APT1011,2025-02-18,General Medicine,New,Attended,42.0,Yes,513.0
+APT2269,2025-01-26,ENT,Follow-up,Cancelled,13.0,Yes,437.0
+APT1538,2025-02-18,ENT,Follow-up,Cancelled,23.0,Yes,480.0
+APT1627,2025-01-25,Cardiology,New,Attended,31.0,No,1263.0
+APT1281,2025-01-15,Cardiology,New,Attended,43.0,Yes,1201.0
+APT1983,2025-01-30,ENT,Follow-up,Cancelled,31.0,Yes,489.0
+APT2495,2025-01-18,Neurology,New,Cancelled,64.0,No,1267.0
+APT1223,2025-02-14,Cardiology,New,Attended,42.0,Yes,1211.0
+APT1672,2025-01-07,Orthopedics,Follow-up,Attended,53.0,Yes,613.0
+APT2243,2025-01-11,Cardiology,Follow-up,Attended,49.0,Yes,858.0
+APT1966,2025-01-07,Neurology,New,Attended,48.0,No,1364.0
+APT2149,2025-03-01,General Medicine,Follow-up,Attended,22.0,Yes,369.0
+APT2093,2025-01-24,General Medicine,Follow-up,Attended,45.0,No,346.0
+APT2494,2025-02-15,Orthopedics,New,Attended,48.0,Yes,971.0
+APT1994,2025-02-10,Neurology,Follow-up,Attended,55.0,No,873.0
+APT1580,2025-01-07,General Medicine,New,Attended,31.0,No,510.0
+APT2045,2025-02-09,Pediatrics,New,Cancelled,31.0,No,623.0
+APT1077,2025-01-07,Orthopedics,Follow-up,No-Show,51.0,No,601.0
+APT1547,2025-02-17,Gynecology,Follow-up,Attended,28.0,No,567.0
+APT2349,2025-01-13,General Medicine,New,Attended,48.0,Yes,491.0
+APT1748,2025-02-14,Cardiology,New,Attended,38.0,Yes,1220.0
+APT1826,2025-01-11,Orthopedics,Follow-up,Attended,43.0,No,602.0
+APT1125,2025-01-11,Orthopedics,New,Attended,62.0,Yes,901.0
+APT2252,2025-02-06,Cardiology,Follow-up,Attended,8.0,Yes,830.0
+APT1757,2025-02-11,General Medicine,Follow-up,Attended,15.0,Yes,373.0
+APT2066,2025-02-16,Neurology,Follow-up,Attended,38.0,Yes,960.0
+APT1576,2025-01-30,Gynecology,Follow-up,Attended,48.0,Yes,570.0
+APT1621,2025-03-01,Orthopedics,Follow-up,Attended,44.0,Yes,622.0
+APT1767,2025-02-18,Pediatrics,Follow-up,No-Show,,No,438.0
+APT2229,2025-02-25,Dermatology,New,Attended,18.0,No,762.0
+APT1075,2025-01-04,Orthopedics,New,Attended,55.0,Yes,970.0
+APT2030,2025-01-16,Gynecology,Follow-up,Attended,25.0,Yes,585.0
+APT2365,2025-02-22,Dermatology,New,Attended,28.0,Yes,716.0
+APT1802,2025-02-14,Cardiology,New,Attended,49.0,Yes,1300.0
+APT1844,2025-01-26,Cardiology,New,Attended,35.0,No,1259.0
+APT2275,2025-01-05,Pediatrics,New,Attended,14.0,No,641.0
+APT2483,2025-02-06,General Medicine,New,Cancelled,13.0,Yes,525.0
+APT2296,2025-01-08,Dermatology,Follow-up,No-Show,16.0,No,482.0
+APT1259,2025-02-24,Neurology,New,Attended,60.0,Yes,1316.0
+APT1282,2025-01-03,Cardiology,New,Attended,45.0,Yes,1307.0
+APT1634,2025-02-18,Pediatrics,Follow-up,Attended,,No,430.0
+APT2424,2025-02-10,Cardiology,New,Attended,56.0,No,1227.0
+APT1474,2025-01-24,Cardiology,New,Attended,50.0,No,1270.0
+APT1455,2025-03-01,Cardiology,Follow-up,Attended,137.0,Yes,831.0
+APT1320,2025-02-21,Orthopedics,Follow-up,No-Show,,Yes,605.0
+APT1434,2025-01-03,Gynecology,Follow-up,Attended,35.0,Yes,568.0
+APT2456,2025-01-11,General Medicine,Follow-up,Attended,25.0,No,380.0
+APT1299,2025-02-27,Pediatrics,Follow-up,No-Show,17.0,No,461.0
+APT1436,2025-02-27,Orthopedics,Follow-up,Attended,52.0,No,670.0
+APT2377,2025-01-24,Gynecology,Follow-up,No-Show,29.0,No,584.0
+APT1438,2025-02-01,General Medicine,New,Attended,23.0,Yes,545.0
+APT1325,2025-02-05,Dermatology,Follow-up,Attended,8.0,No,486.0
+APT1403,2025-01-23,Neurology,New,Attended,30.0,No,1360.0
+APT1564,2025-01-31,General Medicine,Follow-up,Attended,12.0,Yes,347.0
+APT1292,2025-02-12,Gynecology,New,Attended,46.0,Yes,827.0
+APT1278,2025-01-14,Pediatrics,New,Attended,31.0,Yes,654.0
+APT1655,2025-02-05,Neurology,Follow-up,Attended,33.0,Yes,959.0
+APT2314,2025-02-03,Cardiology,New,Cancelled,39.0,Yes,1236.0
+APT1732,2025-02-18,Neurology,New,Attended,60.0,Yes,1399.0
+APT1553,2025-01-18,ENT,Follow-up,Attended,21.0,Yes,482.0
+APT1094,2025-01-20,Neurology,Follow-up,Attended,33.0,No,941.0
+APT2428,2025-01-05,Dermatology,New,Attended,43.0,Yes,679.0
+APT2255,2025-02-07,Pediatrics,Follow-up,Cancelled,21.0,Yes,422.0
+APT1245,2025-01-25,ENT,Follow-up,Attended,20.0,Yes,500.0
+APT1945,2025-01-09,Cardiology,New,Attended,60.0,No,1157.0
+APT2191,2025-02-28,General Medicine,Follow-up,Attended,30.0,Yes,355.0
+APT1775,2025-01-07,ENT,Follow-up,No-Show,20.0,No,488.0
+APT1426,2025-01-03,ENT,New,Attended,23.0,Yes,697.0
+APT2186,2025-02-16,Cardiology,New,Attended,34.0,Yes,1261.0
+APT1149,2025-02-19,General Medicine,Follow-up,Attended,38.0,Yes,385.0
+APT1226,2025-02-06,Neurology,New,Attended,,Yes,1310.0
+APT1865,2025-01-04,Orthopedics,New,Attended,50.0,Yes,975.0
+APT1967,2025-02-22,Pediatrics,Follow-up,Cancelled,16.0,Yes,424.0
+APT2118,2025-01-08,General Medicine,New,Attended,41.0,No,477.0
+APT2245,2025-02-03,General Medicine,Follow-up,Attended,47.0,No,368.0
+APT1900,2025-02-15,General Medicine,Follow-up,Attended,29.0,Yes,373.0
+APT1699,2025-02-21,Orthopedics,Follow-up,Attended,,No,689.0
+APT1601,2025-01-31,General Medicine,Follow-up,No-Show,51.0,No,334.0
+APT2291,2025-02-09,Pediatrics,Follow-up,Attended,18.0,Yes,441.0
+APT2058,2025-02-01,Neurology,Follow-up,Attended,27.0,No,982.0
+APT1217,2025-02-25,Cardiology,Follow-up,No-Show,50.0,No,821.0
+APT2096,2025-02-01,ENT,New,Attended,58.0,Yes,649.0
+APT1817,2025-01-21,Dermatology,New,Cancelled,18.0,No,769.0
+APT1220,2025-01-05,General Medicine,Follow-up,Cancelled,30.0,No,377.0
+APT1213,2025-01-16,Orthopedics,New,Attended,52.0,Yes,968.0
+APT2403,2025-01-26,Gynecology,New,Attended,30.0,Yes,901.0
+APT1907,2025-01-23,ENT,New,Attended,38.0,Yes,638.0
+APT1394,2025-02-06,General Medicine,Follow-up,Attended,35.0,No,370.0
+APT1367,2025-02-20,Neurology,Follow-up,Attended,46.0,Yes,913.0
+APT1924,2025-01-12,ENT,Follow-up,Cancelled,24.0,No,475.0
+APT1012,2025-02-27,General Medicine,New,Attended,31.0,No,502.0
+APT2393,2025-02-05,Neurology,Follow-up,No-Show,51.0,No,924.0
+APT2222,2025-01-01,Neurology,New,Attended,42.0,Yes,1429.0
+APT1234,2025-01-25,Neurology,New,Attended,40.0,Yes,1358.0
+APT1695,2025-01-16,Pediatrics,Follow-up,Cancelled,40.0,No,429.0
+APT2084,2025-01-12,Pediatrics,New,Attended,62.0,Yes,642.0
+APT2419,2025-01-11,Dermatology,Follow-up,Attended,22.0,Yes,478.0
+APT2339,2025-02-26,Gynecology,New,Attended,56.0,Yes,809.0
+APT2321,2025-01-11,Pediatrics,New,Attended,16.0,No,580.0
+APT1063,2025-01-19,Orthopedics,Follow-up,Attended,30.0,No,654.0
+APT1734,2025-02-12,Neurology,Follow-up,Attended,32.0,Yes,997.0
+APT2023,2025-02-21,Orthopedics,New,Attended,43.0,Yes,914.0
+APT1964,2025-02-26,ENT,New,Cancelled,33.0,Yes,695.0
+APT1607,2025-01-05,Dermatology,Follow-up,Attended,23.0,No,503.0
+APT1013,2025-01-06,General Medicine,Follow-up,Attended,23.0,No,373.0
+APT1839,2025-01-26,Cardiology,Follow-up,Attended,38.0,Yes,855.0
+APT1435,2025-01-17,General Medicine,Follow-up,Attended,36.0,Yes,355.0
+APT1017,2025-01-09,General Medicine,New,Attended,31.0,Yes,519.0
+APT1764,2025-02-28,Orthopedics,New,Attended,59.0,No,888.0
+APT1348,2025-02-19,Orthopedics,New,Attended,75.0,Yes,922.0
+APT1207,2025-02-06,Gynecology,Follow-up,Attended,138.0,No,609.0
+APT2114,2025-02-09,Dermatology,Follow-up,Attended,25.0,No,526.0
+APT2331,2025-01-26,Neurology,New,No-Show,33.0,No,1399.0
+APT1341,2025-02-03,ENT,Follow-up,Attended,17.0,No,441.0
+APT1344,2025-02-01,Neurology,New,Attended,52.0,Yes,1365.0
+APT2354,2025-01-27,ENT,Follow-up,Attended,2.0,No,437.0
+APT2386,2025-02-10,Orthopedics,Follow-up,Attended,25.0,Yes,671.0
+APT1551,2025-01-28,General Medicine,New,Attended,35.0,Yes,494.0
+APT1598,2025-02-28,Gynecology,New,Attended,47.0,Yes,905.0
+APT1032,2025-01-07,Gynecology,Follow-up,Attended,24.0,Yes,603.0
+APT1372,2025-01-26,Cardiology,New,Cancelled,41.0,No,1265.0
+APT1657,2025-01-15,Orthopedics,New,No-Show,36.0,No,887.0
+APT1172,2025-02-01,General Medicine,New,Cancelled,31.0,No,494.0
+APT2086,2025-03-01,Orthopedics,New,Attended,49.0,Yes,896.0
+APT2463,2025-02-18,Gynecology,New,Attended,39.0,Yes,919.0
+APT1408,2025-02-02,Dermatology,New,No-Show,22.0,Yes,745.0
+APT2050,2025-01-16,Orthopedics,Follow-up,Attended,47.0,Yes,615.0
+APT2440,2025-01-12,General Medicine,New,Attended,47.0,No,512.0
+APT1200,2025-02-03,ENT,New,Attended,2.0,Yes,644.0
+APT2316,2025-01-01,General Medicine,Follow-up,Cancelled,28.0,No,347.0
+APT1860,2025-02-01,Orthopedics,New,Attended,53.0,Yes,933.0
+APT2410,2025-02-01,Pediatrics,New,Attended,25.0,No,643.0
+APT2165,2025-01-20,ENT,Follow-up,Attended,10.0,Yes,460.0
+APT2388,2025-01-17,General Medicine,Follow-up,Attended,27.0,No,336.0
+APT2423,2025-02-19,ENT,Follow-up,Attended,26.0,Yes,454.0
+APT2361,2025-01-12,General Medicine,Follow-up,No-Show,54.0,No,377.0
+APT1489,2025-02-06,General Medicine,Follow-up,Attended,19.0,Yes,334.0
+APT2421,2025-02-16,Gynecology,New,Attended,59.0,Yes,867.0
+APT1212,2025-02-03,Neurology,Follow-up,Attended,27.0,Yes,996.0
+APT1133,2025-01-08,General Medicine,New,Attended,24.0,No,510.0
+APT1060,2025-02-22,General Medicine,New,Attended,,Yes,523.0
+APT1690,2025-02-15,General Medicine,New,No-Show,27.0,No,547.0
+APT1026,2025-01-30,General Medicine,Follow-up,Attended,17.0,Yes,384.0
+APT1100,2025-02-06,Cardiology,Follow-up,No-Show,22.0,Yes,817.0
+APT1974,2025-02-12,Orthopedics,New,Cancelled,52.0,No,959.0
+APT1776,2025-02-11,Pediatrics,Follow-up,Attended,60.0,Yes,440.0
+APT1788,2025-02-01,Dermatology,Follow-up,Attended,29.0,Yes,469.0
+APT1520,2025-02-17,General Medicine,Follow-up,Attended,26.0,Yes,360.0
+APT1363,2025-02-12,Pediatrics,Follow-up,Attended,19.0,Yes,448.0
+APT1309,2025-01-30,Pediatrics,Follow-up,Attended,28.0,Yes,454.0
+APT1795,2025-01-28,General Medicine,New,No-Show,16.0,Yes,539.0
+APT1828,2025-02-26,General Medicine,New,Attended,38.0,Yes,483.0
+APT2276,2025-02-11,ENT,New,Attended,33.0,Yes,712.0
+APT1544,2025-02-06,ENT,Follow-up,Attended,38.0,No,485.0
+APT1939,2025-02-04,Gynecology,Follow-up,Attended,14.0,No,586.0
+APT1441,2025-02-20,Pediatrics,Follow-up,Attended,26.0,Yes,422.0
+APT1647,2025-02-05,Dermatology,Follow-up,Attended,2.0,Yes,494.0
+APT2003,2025-01-01,Neurology,New,No-Show,30.0,No,1400.0
+APT1476,2025-01-16,Gynecology,New,Attended,42.0,Yes,844.0
+APT2046,2025-01-31,General Medicine,New,Attended,48.0,No,525.0
+APT1062,2025-01-06,General Medicine,New,Attended,61.0,Yes,496.0
+APT2172,2025-01-16,Pediatrics,Follow-up,Attended,2.0,No,408.0
+APT1483,2025-01-22,Orthopedics,Follow-up,Attended,26.0,Yes,618.0
+APT2026,2025-02-25,Dermatology,Follow-up,Attended,14.0,Yes,528.0
+APT2281,2025-01-16,Gynecology,Follow-up,Attended,36.0,Yes,590.0
+APT1052,2025-01-01,Dermatology,Follow-up,Attended,3.0,Yes,498.0
+APT1242,2025-02-05,Pediatrics,Follow-up,Attended,37.0,Yes,427.0
+APT2197,2025-01-24,Gynecology,New,Attended,46.0,Yes,813.0
+APT1035,2025-01-10,Cardiology,New,No-Show,40.0,Yes,1150.0
+APT2202,2025-01-26,General Medicine,Follow-up,Attended,53.0,Yes,375.0
+APT1738,2025-02-05,General Medicine,Follow-up,Attended,37.0,Yes,384.0
+APT1120,2025-02-16,Dermatology,New,Attended,23.0,Yes,757.0
+APT2451,2025-02-28,Neurology,Follow-up,Attended,52.0,Yes,996.0
+APT2299,2025-01-25,General Medicine,Follow-up,Attended,15.0,No,369.0
+APT2019,2025-01-15,Pediatrics,Follow-up,Cancelled,7.0,Yes,432.0
+APT1044,2025-02-13,Gynecology,Follow-up,Cancelled,52.0,Yes,649.0
+APT2324,2025-01-22,Orthopedics,New,Attended,33.0,Yes,905.0
+APT1836,2025-01-15,Dermatology,Follow-up,Attended,25.0,Yes,482.0
+APT1076,2025-02-01,Pediatrics,Follow-up,Attended,7.0,No,432.0
+APT1368,2025-01-14,Dermatology,New,Cancelled,38.0,Yes,732.0
+APT1906,2025-02-20,Dermatology,New,Attended,33.0,Yes,770.0
+APT2236,2025-02-28,Pediatrics,New,No-Show,14.0,Yes,574.0
+APT1267,2025-01-25,Pediatrics,New,Attended,,Yes,580.0
+APT2335,2025-01-11,ENT,Follow-up,No-Show,20.0,No,477.0
+APT1728,2025-02-03,Cardiology,Follow-up,Attended,56.0,Yes,801.0
+APT1444,2025-02-26,General Medicine,New,Attended,11.0,Yes,517.0
+APT1503,2025-02-08,ENT,New,No-Show,19.0,Yes,635.0
+APT2057,2025-01-27,Orthopedics,Follow-up,Attended,38.0,No,688.0
+APT2033,2025-01-17,General Medicine,New,Attended,,No,534.0
+APT2184,2025-01-19,Neurology,New,Attended,54.0,Yes,1258.0
+APT1285,2025-01-06,Dermatology,Follow-up,Attended,35.0,Yes,473.0
+APT1295,2025-02-23,Cardiology,New,No-Show,39.0,No,1258.0
+APT1625,2025-02-04,General Medicine,Follow-up,Attended,27.0,Yes,361.0
+APT1277,2025-01-28,Orthopedics,Follow-up,No-Show,41.0,No,602.0
+APT2441,2025-01-21,ENT,Follow-up,Attended,33.0,Yes,448.0
+APT1484,2025-02-24,Cardiology,New,Attended,42.0,Yes,1178.0
+APT1182,2025-01-09,Gynecology,New,Attended,71.0,No,862.0
+APT1970,2025-01-26,Orthopedics,New,Cancelled,55.0,No,975.0
+APT2473,2025-02-24,Pediatrics,New,Attended,39.0,No,590.0
+APT1684,2025-01-15,Neurology,New,Attended,24.0,Yes,1381.0
+APT2485,2025-02-06,ENT,New,Cancelled,47.0,Yes,654.0
+APT1036,2025-02-02,Pediatrics,New,Attended,31.0,No,647.0
+APT2180,2025-01-17,Cardiology,Follow-up,Attended,18.0,Yes,861.0
+APT1002,2025-01-05,Cardiology,New,Attended,42.0,Yes,1204.0
+APT1754,2025-02-10,Pediatrics,Follow-up,Attended,41.0,Yes,456.0
+APT1508,2025-02-21,Cardiology,Follow-up,No-Show,27.0,Yes,884.0
+APT1497,2025-01-31,Orthopedics,Follow-up,Attended,42.0,No,686.0
+APT1308,2025-01-26,Orthopedics,New,Attended,33.0,Yes,932.0
+APT2313,2025-02-17,Cardiology,New,Attended,42.0,No,1199.0
+APT2438,2025-01-20,Dermatology,Follow-up,Attended,23.0,No,488.0
+APT1141,2025-01-16,Dermatology,Follow-up,Attended,,Yes,495.0
+APT2247,2025-01-08,ENT,New,Attended,54.0,No,701.0
+APT1864,2025-02-16,Cardiology,Follow-up,Cancelled,31.0,Yes,887.0
+APT1183,2025-01-26,General Medicine,Follow-up,Attended,32.0,Yes,348.0
+APT2464,2025-01-03,Orthopedics,Follow-up,Attended,,Yes,606.0
+APT2010,2025-01-22,Gynecology,Follow-up,Attended,43.0,Yes,617.0
+APT1912,2025-02-19,Dermatology,New,No-Show,9.0,No,678.0
+APT1848,2025-01-30,Neurology,Follow-up,Attended,41.0,Yes,924.0
+APT1511,2025-02-18,Orthopedics,New,Attended,53.0,No,901.0
+APT1731,2025-01-11,General Medicine,Follow-up,Attended,9.0,Yes,347.0
+APT1996,2025-02-24,Pediatrics,New,Attended,38.0,Yes,604.0
+APT1887,2025-01-15,Dermatology,New,Attended,12.0,No,721.0
+APT1117,2025-02-26,Pediatrics,New,Attended,30.0,Yes,632.0
+APT2025,2025-01-27,Pediatrics,Follow-up,Attended,19.0,Yes,433.0
+APT1113,2025-02-21,Neurology,Follow-up,Attended,38.0,Yes,935.0
+APT1545,2025-01-31,ENT,Follow-up,Attended,9.0,Yes,497.0
+APT1165,2025-01-22,General Medicine,New,Attended,30.0,Yes,545.0
+APT1184,2025-02-13,Gynecology,Follow-up,Attended,34.0,Yes,579.0
+APT2396,2025-01-10,Pediatrics,Follow-up,Attended,37.0,Yes,424.0
+APT1274,2025-02-21,Neurology,Follow-up,Attended,20.0,Yes,981.0
+APT2001,2025-02-23,Neurology,New,Attended,43.0,Yes,1242.0
+APT1704,2025-01-03,Cardiology,Follow-up,Attended,36.0,Yes,914.0
+APT2024,2025-01-03,Cardiology,Follow-up,Attended,44.0,Yes,810.0
+APT1383,2025-01-08,General Medicine,Follow-up,Attended,58.0,No,384.0
+APT2429,2025-01-02,General Medicine,Follow-up,Attended,34.0,No,362.0
+APT1561,2025-02-16,General Medicine,New,Attended,33.0,Yes,534.0
+APT1862,2025-02-15,General Medicine,Follow-up,Attended,18.0,Yes,367.0
+APT2044,2025-01-29,Cardiology,New,Attended,36.0,No,1267.0
+APT1176,2025-01-05,Pediatrics,New,Attended,4.0,Yes,657.0
+APT2359,2025-02-24,Gynecology,New,Attended,29.0,No,868.0
+APT1379,2025-02-14,Orthopedics,Follow-up,Attended,32.0,Yes,610.0
+APT2195,2025-01-24,ENT,New,Attended,33.0,No,688.0
+APT2016,2025-02-01,Neurology,Follow-up,Attended,36.0,Yes,989.0
+APT1519,2025-02-01,Pediatrics,New,Attended,18.0,No,653.0
+APT1830,2025-02-19,General Medicine,New,No-Show,60.0,No,520.0
+APT1507,2025-01-17,Cardiology,Follow-up,Attended,69.0,No,857.0
+APT2176,2025-02-18,Cardiology,Follow-up,Cancelled,19.0,No,916.0
+APT1413,2025-02-10,Cardiology,New,Attended,54.0,Yes,1174.0
+APT1622,2025-02-23,ENT,New,Attended,30.0,No,669.0
+APT1872,2025-03-01,Neurology,Follow-up,Cancelled,56.0,No,974.0
+APT1858,2025-01-28,Pediatrics,Follow-up,Attended,19.0,No,441.0
+APT1641,2025-01-05,General Medicine,New,Attended,32.0,Yes,507.0
+APT2340,2025-01-20,Orthopedics,Follow-up,Attended,33.0,No,620.0
+APT1258,2025-01-12,General Medicine,New,Attended,130.0,No,548.0
+APT1834,2025-01-05,Dermatology,Follow-up,Attended,10.0,Yes,472.0
+APT1662,2025-01-16,Cardiology,Follow-up,Attended,41.0,Yes,882.0
+APT1337,2025-01-27,Cardiology,Follow-up,Attended,45.0,Yes,838.0
+APT1398,2025-02-15,Cardiology,New,Attended,34.0,No,1154.0
+APT2447,2025-01-23,Cardiology,Follow-up,Attended,32.0,Yes,830.0
+APT1605,2025-01-10,Dermatology,New,Attended,38.0,No,757.0
+APT1480,2025-02-15,Dermatology,Follow-up,Attended,15.0,Yes,473.0
+APT2446,2025-01-29,Orthopedics,Follow-up,No-Show,31.0,No,666.0
+APT2143,2025-01-19,Gynecology,Follow-up,Attended,138.0,Yes,575.0
+APT1917,2025-01-16,Neurology,Follow-up,Attended,57.0,Yes,960.0
+APT2017,2025-02-28,Neurology,Follow-up,Attended,41.0,No,932.0
+APT1875,2025-02-12,Cardiology,New,Attended,43.0,Yes,1293.0
+APT1659,2025-01-20,Gynecology,New,Attended,20.0,Yes,924.0
+APT2021,2025-02-09,Orthopedics,New,No-Show,42.0,No,928.0
+APT1789,2025-01-26,Dermatology,New,Attended,88.0,Yes,717.0
+APT1256,2025-02-11,Dermatology,Follow-up,Attended,30.0,No,510.0
+APT1968,2025-01-02,Orthopedics,New,Attended,39.0,Yes,972.0
+APT1952,2025-02-06,Dermatology,New,Attended,44.0,Yes,765.0
+APT2273,2025-02-11,Orthopedics,Follow-up,Attended,36.0,Yes,633.0
